@@ -49,7 +49,7 @@ My research interest includes neural machine translation and computer vision. I 
 # 📖 Educations
 - *2020.03 - 2023.12*, Ph.D. in Transportation Engineering, Tongji University, Shanghai, China
 - *2022.12 - 2023.11*, Visiting Ph.D., University of Twente, Enschede, the Netherlands
-- *2018.09 - 2020.2*, M.Sc. in Transportation Engineering, Tongji University, Shanghai, China
+- *2018.09 - 2020.02*, M.Sc. in Transportation Engineering, Tongji University, Shanghai, China
 - *2014.09 - 2018.07*, B.Eng. in Traffic Engineering, Tongji University, Shanghai, China
 
 # 💬 Invited Talks
