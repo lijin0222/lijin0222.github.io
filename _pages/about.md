@@ -47,8 +47,10 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.03 - 2023.12*, Ph.D. in Transportation Engineering, Tongji University, Shanghai, China
+- *2022.12 - 2023.11*, Visiting Ph.D., University of Twente, Enschede, the Netherlands
+- *2018.09 - 2020.2*, M.Sc. in Transportation Engineering, Tongji University, Shanghai, China
+- *2014.09 - 2018.07*, B.Eng. in Traffic Engineering, Tongji University, Shanghai, China
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
