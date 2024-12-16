@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jin Li"
-description              : "Welcome to Jin Li's academic homepage"
+description              : # "Welcome to Jin Li's academic homepage"
 repository               : "lijin0222/lijin0222.github.io"
 google_scholar_stats_use_cdn : true
 
