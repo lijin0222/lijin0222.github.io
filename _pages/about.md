@@ -28,7 +28,6 @@ My research interest includes pavement sustainability, asset management, materia
 - *2024.12*: &nbsp;🎉🎉 New paper accepeted by [Materials Letters](https://www.sciencedirect.com/journal/materials-letters). 
 
 # 📝 Publications 
-
 **2024**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Materials Letters</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
