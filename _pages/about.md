@@ -29,7 +29,7 @@ My research interest includes pavement sustainability, asset management, materia
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Materials Letters</div><img src='images/materials_letters.png' alt="sym" height="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Materials Letters</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Bayesian-optimized ensemble learning for predicting stiffness modulus of asphalt mixtures: A data-driven approach with model interpretation](https://www.sciencedirect.com/science/article/pii/S0167577X24020330)
@@ -54,8 +54,8 @@ Pengfei Qiu, Jiakai Lu, Jie Ma, Xiangdao Hou, Tao Wang, **Jin Li***
 - *2014.09 - 2018.07*, B.Eng. in Traffic Engineering, [Tongji University](https://en.tongji.edu.cn), Shanghai, China
 
 # 💬 Conference Presentations
-- *2025.07*, Pavement roughness prediction with ensemble learning: Insights from the Netherlands, 3rd International Symposium on Pavement Functional Design and Management (PFDM 2025), Delft, the Netherlands.
-- *2025.07*, Embedded Dynamic Wireless Power Transfer in Rigid Pavements for Electrification: Structural Assessment and Modeling, IEEE Wireless Power Technology Conference and Expo (WPTCE 2025), Rome, Italy.
+- *2025.07*, Pavement roughness prediction with ensemble learning: Insights from the Netherlands, [3rd International Symposium on Pavement Functional Design and Management (PFDM 2025)](https://www.pfdm2025.com), Delft, the Netherlands.
+- *2025.06*, Embedded Dynamic Wireless Power Transfer in Rigid Pavements for Electrification: Structural Assessment and Modeling, [IEEE Wireless Power Technology Conference and Expo (WPTCE 2025)](https://ieee-wptce.org), Rome, Italy.
 
 # 💻 Internships
 - *2017.09 - 2017.12*, [Shenzhen Communications Design & Research Institute](https://www.ctdri.com/), China.
