@@ -29,6 +29,7 @@ My research interest includes pavement sustainability, asset management, materia
 
 # 📝 Publications 
 
+**2024**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Materials Letters</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -38,6 +39,18 @@ Pengfei Qiu, Jiakai Lu, Jie Ma, Xiangdao Hou, Tao Wang, **Jin Li***
 
 [**Topic**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7axMkuEAAAAJ&sortby=pubdate&citation_for_view=7axMkuEAAAAJ:mVmsd5A6BfQC) <strong><span class='show_paper_citations' data='7axMkuEAAAAJ:mVmsd5A6BfQC'></span></strong>
 - Material Informatics & Data-Driven Design
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Resources, Conservation and Recycling</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Prospective LCA of valorizing ELTs in asphalt mixtures with emerging pretreatment technologies of crumb rubber](https://www.sciencedirect.com/science/article/pii/S092134492400421X)
+
+**Jin Li**, Joao Santos*, Andrea Vargas-Farias, Daniel Castro-Fresno, Feipeng Xiao**
+
+[**Topic**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7axMkuEAAAAJ&sortby=pubdate&citation_for_view=7axMkuEAAAAJ:aqlVkmm33-oC) <strong><span class='show_paper_citations' data='7axMkuEAAAAJ:aqlVkmm33-oC'></span></strong>
+- Pavement Sustainability & Materials Decarbonization
 </div>
 </div>
 
