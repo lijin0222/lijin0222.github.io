@@ -57,7 +57,10 @@ Pengfei Qiu, Jiakai Lu, Jie Ma, Xiangdao Hou, Tao Wang, **Jin Li***
 # 🎖 Honors and Awards
 - *2022* National Scholarship
 - *2021* National Scholarship
+- *2021* WANG Binggang Scholarship
 - *2019* National Scholarship
+- *2018* University Graduate Excellence Award of Shanghai
+- *2017* YANG Peikun Scholarship
 - *2016* National Scholarship
 
 # 📖 Educations
