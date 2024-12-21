@@ -21,7 +21,7 @@ I am currently a postdoctoral research associate at the [Lyles School of Civil a
 
 I earned both my PhD and Bachelor's degrees in Transportation Engineering from [Tongji University](https://en.tongji.edu.cn) in Shanghai, China, graduating with honor and the highest GPA in my cohort.
 
-My research interest includes pavement sustainability, asset management, material informatics, and transportation electrification. I have published more than 25 papers as the first/corresponding author at the top-tier journals with total <a href='https://scholar.google.com/citations?user=7axMkuEAAAAJ'>google scholar citations <strong><span id='total_cit'>974</span></strong></a>.
+My research interest includes **pavement sustainability**, **asset management**, **material informatics**, and **transportation electrification**. I have published more than 25 papers as the first/corresponding author at the top-tier journals with total <a href='https://scholar.google.com/citations?user=7axMkuEAAAAJ'>google scholar citations <strong><span id='total_cit'>974</span></strong></a>.
 
 
 # 🔥 News
