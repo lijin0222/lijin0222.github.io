@@ -17,15 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a postdoctoral research associate at the Lyles School of Civil and Construction Engineering at Purdue University. I am also closely collaborating with the Indiana Department of Transportation (INDOT) on JTRP projects.
+I am currently a postdoctoral research associate at the [Lyles School of Civil and Construction Engineering](https://engineering.purdue.edu/CCE) at [Purdue University](https://www.purdue.edu). I am also closely collaborating with the [Indiana Department of Transportation (INDOT)](https://www.in.gov/indot/) on [JTRP](https://engineering.purdue.edu/JTRP) projects.
 
-I earned both my PhD and Bachelor's degrees in Transportation Engineering from Tongji University in Shanghai, China, graduating with honor and the highest GPA in my cohort.
+I earned both my PhD and Bachelor's degrees in Transportation Engineering from [Tongji University](https://en.tongji.edu.cn) in Shanghai, China, graduating with honor and the highest GPA in my cohort.
 
 My research interest includes pavement sustainability, asset management, material informatics, and transportation electrification. I have published more than 25 papers as the first/corresponding author at the top-tier journals with total <a href='https://scholar.google.com/citations?user=7axMkuEAAAAJ'>google scholar citations <strong><span id='total_cit'>974</span></strong></a>.
 
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 New paper accepeted by Materials Letters. 
+- *2024.12*: &nbsp;🎉🎉 New paper accepeted by [Materials Letters](https://www.sciencedirect.com/journal/materials-letters). 
 
 # 📝 Publications 
 
