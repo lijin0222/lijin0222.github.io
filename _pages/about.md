@@ -30,23 +30,23 @@ My research interest includes pavement sustainability, asset management, materia
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Material Letters</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Bayesian-optimized ensemble learning for predicting stiffness modulus of asphalt mixtures: A data-driven approach with model interpretation](https://www.sciencedirect.com/science/article/pii/S0167577X24020330)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Pengfei Qiu, Jiakai Lu, Jie Ma, Xiangdao Hou, Tao Wang, **Jin Li**
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Topic**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7axMkuEAAAAJ&sortby=pubdate&citation_for_view=7axMkuEAAAAJ:mVmsd5A6BfQC) <strong><span class='show_paper_citations' data='7axMkuEAAAAJ:mVmsd5A6BfQC'></span></strong>
+- Material Informatics & Data-Driven Design
 </div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022* National Scholarship
+- *2021* National Scholarship
+- *2019* National Scholarship
+- *2016* National Scholarship
 
 # 📖 Educations
 - *2020.03 - 2023.12*, Ph.D. in Transportation Engineering, Tongji University, Shanghai, China
@@ -54,9 +54,9 @@ My research interest includes pavement sustainability, asset management, materia
 - *2018.09 - 2020.02*, M.Sc. in Transportation Engineering, Tongji University, Shanghai, China
 - *2014.09 - 2018.07*, B.Eng. in Traffic Engineering, Tongji University, Shanghai, China
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Conference Presentations
+- *2025.07*, Pavement roughness prediction with ensemble learning: Insights from the Netherlands, 3rd International Symposium on Pavement Functional Design and Management (PFDM 2025), Delft, the Netherlands.
+- *2025.07*, Embedded Dynamic Wireless Power Transfer in Rigid Pavements for Electrification: Structural Assessment and Modeling, IEEE Wireless Power Technology Conference and Expo (WPTCE 2025), Rome, Italy.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2017.09 - 2017.12*, [Shenzhen Communications Design & Research Institute](https://www.ctdri.com/), China.
