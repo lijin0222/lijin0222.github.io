@@ -34,7 +34,7 @@ My research interest includes pavement sustainability, asset management, materia
 
 [Bayesian-optimized ensemble learning for predicting stiffness modulus of asphalt mixtures: A data-driven approach with model interpretation](https://www.sciencedirect.com/science/article/pii/S0167577X24020330)
 
-Pengfei Qiu, Jiakai Lu, Jie Ma, Xiangdao Hou, Tao Wang, **Jin Li**
+Pengfei Qiu, Jiakai Lu, Jie Ma, Xiangdao Hou, Tao Wang, **Jin Li***
 
 [**Topic**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7axMkuEAAAAJ&sortby=pubdate&citation_for_view=7axMkuEAAAAJ:mVmsd5A6BfQC) <strong><span class='show_paper_citations' data='7axMkuEAAAAJ:mVmsd5A6BfQC'></span></strong>
 - Material Informatics & Data-Driven Design
