@@ -29,7 +29,7 @@ My research interest includes pavement sustainability, asset management, materia
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Materials Letters</div><img src='images/materials_letters.png' alt="sym" length="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Materials Letters</div><img src='images/materials_letters.png' alt="sym" height="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Bayesian-optimized ensemble learning for predicting stiffness modulus of asphalt mixtures: A data-driven approach with model interpretation](https://www.sciencedirect.com/science/article/pii/S0167577X24020330)
