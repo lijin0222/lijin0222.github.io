@@ -25,7 +25,7 @@ My research interest includes pavement sustainability, asset management, materia
 
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 New paper accepeted by Material Letters. 
+- *2024.12*: &nbsp;🎉🎉 New paper accepeted by Materials Letters. 
 
 # 📝 Publications 
 
