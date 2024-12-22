@@ -61,8 +61,8 @@ Pengfei Qiu, Jiakai Lu, Jie Ma, Xiangdao Hou, Tao Wang, **Jin Li***
 
 <span class='anchor' id='-professional-experience'></span>
 # 💻 Professional Experience
-- *2024.03 - present*, Postdoctoral Research Associate, [Purdue University](https://www.purdue.edu), the United States
-- *2024.03 - present*, Postdoctoral Research Associate (Intern), [Indiana Department of Transportation (INDOT)](https://www.in.gov/indot/), the United States
+- *2024.03 - Present*, Postdoctoral Research Associate, [Purdue University](https://www.purdue.edu), the United States
+- *2024.03 - Present*, Postdoctoral Research Associate (Intern), [Indiana Department of Transportation (INDOT)](https://www.in.gov/indot/), the United States
 - *2017.09 - 2017.12*, Student Intern, [Shenzhen Communications Design & Research Institute](https://www.ctdri.com/), China
 
 <span class='anchor' id='-education-background'></span>
