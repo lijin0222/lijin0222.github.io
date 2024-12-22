@@ -73,15 +73,15 @@ Feipeng Xiao, Zhitao Zhang, Zichao Wu, Wentao He*, **Jin Li****
 
 <span class='anchor' id='-professional-experience'></span>
 # 💻 Professional Experience
-- *2024.03 - Present*, Postdoctoral Research Associate, [Purdue University](https://www.purdue.edu), the United States
-- *2024.03 - Present*, Postdoctoral Research Associate (Intern), [Indiana Department of Transportation (INDOT)](https://www.in.gov/indot/), the United States
+- *2024.03 - Present*, Postdoctoral Research Associate (Supervisor: Prof. [John E. Haddock](https://engineering.purdue.edu/CCE/People/ptProfile?resource_id=2045)), [Purdue University](https://www.purdue.edu), the United States
+- *2024.03 - Present*, Postdoctoral Research Associate (Intern) (Supervisor: Dr. Seonghwan Cho), [Indiana Department of Transportation (INDOT)](https://www.in.gov/indot/), the United States
 - *2017.09 - 2017.12*, Student Intern, [Shenzhen Communications Design & Research Institute](https://www.ctdri.com/), China
 
 <span class='anchor' id='-education-background'></span>
 # 📖 Education Background
-- *2020.03 - 2023.12*, Ph.D. in Transportation Engineering, [Tongji University](https://en.tongji.edu.cn), China
-- *2022.12 - 2023.11*, Visiting Ph.D., [University of Twente](https://www.utwente.nl), the Netherlands
-- *2018.09 - 2020.02*, M.Sc. in Transportation Engineering, [Tongji University](https://en.tongji.edu.cn), China
+- *2020.03 - 2023.12*, Ph.D. in Transportation Engineering (Supervisor: [Prof. Feipeng Xiao](https://tjjt.tongji.edu.cn/info/3027/9634.htm)), [Tongji University](https://en.tongji.edu.cn), China
+- *2022.12 - 2023.11*, Visiting Ph.D. (Supervisor: [Prof. João Santos](https://people.utwente.nl/j.m.oliveiradossantos?tab=overview)), [University of Twente](https://www.utwente.nl), the Netherlands
+- *2018.09 - 2020.02*, M.Sc. in Transportation Engineering (Supervisor: [Prof. Feipeng Xiao](https://tjjt.tongji.edu.cn/info/3027/9634.htm)), [Tongji University](https://en.tongji.edu.cn), China
 - *2014.09 - 2018.07*, B.Eng. in Traffic Engineering, [Tongji University](https://en.tongji.edu.cn), China
 
 # 🏆 Honors and Awards
