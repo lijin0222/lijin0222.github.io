@@ -42,7 +42,7 @@ Pengfei Qiu, Jiakai Lu, Jie Ma, Xiangdao Hou, Tao Wang, **Jin Li***
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Resources, Conservation and Recycling</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Resources, Conservation and Recycling</div><img src='images/RCR1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Prospective LCA of valorizing ELTs in asphalt mixtures with emerging pretreatment technologies of crumb rubber](https://www.sciencedirect.com/science/article/pii/S092134492400421X)
