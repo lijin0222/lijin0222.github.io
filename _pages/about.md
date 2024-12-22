@@ -67,10 +67,10 @@ Pengfei Qiu, Jiakai Lu, Jie Ma, Xiangdao Hou, Tao Wang, **Jin Li***
 
 <span class='anchor' id='-education-background'></span>
 # 📖 Education Background
-- *2020.03 - 2023.12*, Ph.D. in Transportation Engineering, [Tongji University](https://en.tongji.edu.cn), Shanghai, China
-- *2022.12 - 2023.11*, Visiting Ph.D., [University of Twente](https://www.utwente.nl), Enschede, the Netherlands
-- *2018.09 - 2020.02*, M.Sc. in Transportation Engineering, [Tongji University](https://en.tongji.edu.cn), Shanghai, China
-- *2014.09 - 2018.07*, B.Eng. in Traffic Engineering, [Tongji University](https://en.tongji.edu.cn), Shanghai, China
+- *2020.03 - 2023.12*, Ph.D. in Transportation Engineering, [Tongji University](https://en.tongji.edu.cn), China
+- *2022.12 - 2023.11*, Visiting Ph.D., [University of Twente](https://www.utwente.nl), the Netherlands
+- *2018.09 - 2020.02*, M.Sc. in Transportation Engineering, [Tongji University](https://en.tongji.edu.cn), China
+- *2014.09 - 2018.07*, B.Eng. in Traffic Engineering, [Tongji University](https://en.tongji.edu.cn), China
 
 # 🏆 Honors and Awards
 - *2022* National Scholarship
