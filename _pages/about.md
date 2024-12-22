@@ -72,6 +72,7 @@ Feipeng Xiao, Zhitao Zhang, Zichao Wu, Wentao He*, **Jin Li****
 - *2025.06*, Structural Modeling and Assessment of Rigid Pavement with Embedded Dynamic Wireless Power Transfer Components, [IEEE Wireless Power Technology Conference and Expo (WPTCE 2025)](https://ieee-wptce.org), Rome, Italy.
 - *2025.01*, A Survey of Data-Driven Construction Materials Price Forecasting, [The Transportation Research Board (TRB) 104th Annual Meeting](https://trb-annual-meeting.nationalacademies.org), Washington D.C., USA.
 - *2024.09*, Enhanced Temperature Gradient Prediction for Asphalt Layers in Full-Depth Asphalt and Composite Pavement Using Machine Learning Techniques, [33rd FWD User Group (FWDUG) Meeting](http://fwdug.org), Fort Worth, Texas, USA.
+- *2024.03*, Bridging data gap of emerging technology with proxy: A probabilistic LCA of innovative pavement materials, [Data Science for Pavements Symposium (DSPS 2024)](https://pavementdatascience.com), McLean, Virginia, USA.
 
 <span class='anchor' id='-professional-experience'></span>
 # 💻 Professional Experience
