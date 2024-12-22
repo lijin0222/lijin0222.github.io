@@ -54,6 +54,18 @@ Pengfei Qiu, Jiakai Lu, Jie Ma, Xiangdao Hou, Tao Wang, **Jin Li***
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Journal of Transportation Science and Technology</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Machine learning-based climate zoning and asphalt selection for pavement infrastructure under changing climate: A focused study of Ningxia, China](https://www.sciencedirect.com/science/article/pii/S2046043024001229)
+
+Feipeng Xiao, Zhitao Zhang, Zichao Wu, Wentao He*, **Jin Li****
+
+[**Topic**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7axMkuEAAAAJ&sortby=pubdate&citation_for_view=7axMkuEAAAAJ:Wp0gIr-vW9MC) <strong><span class='show_paper_citations' data='7axMkuEAAAAJ:Wp0gIr-vW9MC'></span></strong>
+- Infrastructure Condition Assessment & Management
+</div>
+</div>
+
 <span class='anchor' id='-conference-presentations'></span>
 # 🗺️ Conference Presentations
 - *2025.07*, Pavement roughness prediction with ensemble learning: Insights from the Netherlands, [3rd International Symposium on Pavement Functional Design and Management (PFDM 2025)](https://www.pfdm2025.com), Delft, the Netherlands.
