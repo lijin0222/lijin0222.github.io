@@ -74,8 +74,8 @@ Feipeng Xiao, Zhitao Zhang, Zichao Wu, Wentao He*, **Jin Li****
 - *2024.09*, Enhanced Temperature Gradient Prediction for Asphalt Layers in Full-Depth Asphalt and Composite Pavement Using Machine Learning Techniques, [33rd FWD User Group (FWDUG) Meeting](http://fwdug.org), Fort Worth, Texas, USA.
 - *2024.03*, Bridging data gap of emerging technology with proxy: A probabilistic LCA of innovative pavement materials, [Data Science for Pavements Symposium (DSPS 2024)](https://pavementdatascience.com), McLean, Virginia, USA.
 
-<span class='anchor' id='-professional-experience'></span>
-# 💻 Professional Experience
+<span class='anchor' id='-work-experience'></span>
+# 💻 Work Experience
 - *2024.03 - Present*, Postdoctoral Research Associate (Supervisor: Prof. [John E. Haddock](https://engineering.purdue.edu/CCE/People/ptProfile?resource_id=2045)), [Purdue University](https://www.purdue.edu), the United States
 - *2024.03 - Present*, Postdoctoral Research Associate (Supervisor: Dr. Seonghwan Cho), [Indiana Department of Transportation (INDOT)](https://www.in.gov/indot/), the United States
 - *2017.09 - 2017.12*, Student Intern, [Shenzhen Communications Design & Research Institute](https://www.ctdri.com/), China
