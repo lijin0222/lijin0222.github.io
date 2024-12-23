@@ -41,6 +41,8 @@ Pengfei Qiu, Jiakai Lu, Jie Ma, Xiangdao Hou, Tao Wang, **Jin Li***
 
 [**Topic**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7axMkuEAAAAJ&sortby=pubdate&citation_for_view=7axMkuEAAAAJ:mVmsd5A6BfQC) <strong><span class='show_paper_citations' data='7axMkuEAAAAJ:mVmsd5A6BfQC'></span></strong>
 - Material Informatics & Data-Driven Design
+</div>
+</div>
 
 **2024**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Resources, Conservation and Recycling</div><img src='images/RCR1.png' alt="sym" width="100%"></div></div>
@@ -52,6 +54,8 @@ Pengfei Qiu, Jiakai Lu, Jie Ma, Xiangdao Hou, Tao Wang, **Jin Li***
 
 [**Topic**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7axMkuEAAAAJ&sortby=pubdate&citation_for_view=7axMkuEAAAAJ:aqlVkmm33-oC) <strong><span class='show_paper_citations' data='7axMkuEAAAAJ:aqlVkmm33-oC'></span></strong>
 - Pavement Sustainability & Materials Decarbonization
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Int. J. Transp. Sci. Technol.</div><img src='images/IJTST1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
