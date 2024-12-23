@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a postdoctoral research associate at the [Lyles School of Civil and Construction Engineering](https://engineering.purdue.edu/CCE) at [Purdue University](https://www.purdue.edu). I am also closely collaborating with the [Indiana Department of Transportation (INDOT)](https://www.in.gov/indot/) on [JTRP](https://engineering.purdue.edu/JTRP) projects.
 
-I earned both my PhD and Bachelor's degrees in Transportation Engineering from [School of Transportation](https://tjjt.tongji.edu.cn/English_Home/HOME.htm) at [Tongji University](https://en.tongji.edu.cn) in Shanghai, China, graduating with honor and the highest GPA in my cohort. I had the opportunity to join the [Department of Civil Engineering and Management](https://www.utwente.nl/en/et/cem/) at [University of Twente](https://www.utwente.nl) in Enschede, the Netherlands as a visiting PhD student for one year.
+I earned both my PhD and Bachelor's degrees in Transportation Engineering from [School of Transportation](https://tjjt.tongji.edu.cn/English_Home/HOME.htm) at [Tongji University](https://en.tongji.edu.cn) in Shanghai, China, graduating with honor and the highest GPA in my cohort. I had the opportunity to join the [Department of Civil Engineering and Management](https://www.utwente.nl/en/et/cem/) at [University of Twente](https://www.utwente.nl/en/) in Enschede, the Netherlands as a visiting PhD student for one year.
 
 My research interest includes **pavement sustainability**, **asset management**, **material informatics**, and **transportation electrification**. I have published more than 25 papers as the first/corresponding author at top-tier journals with total <a href='https://scholar.google.com/citations?user=7axMkuEAAAAJ'>google scholar citations <strong><span id='total_cit'>974</span></strong></a>.
 
@@ -83,7 +83,7 @@ Feipeng Xiao, Zhitao Zhang, Zichao Wu, Wentao He*, **Jin Li****
 <span class='anchor' id='-education-background'></span>
 # 📖 Education Background
 - *2020.03 - 2023.12*, Ph.D. in Transportation Engineering (Supervisor: [Prof. Feipeng Xiao](https://tjjt.tongji.edu.cn/info/3027/9634.htm)), [Tongji University](https://en.tongji.edu.cn), China
-- *2022.12 - 2023.11*, Visiting Ph.D. (Supervisor: [Prof. João Santos](https://people.utwente.nl/j.m.oliveiradossantos?tab=overview)), [University of Twente](https://www.utwente.nl), the Netherlands
+- *2022.12 - 2023.11*, Visiting Ph.D. (Supervisor: [Prof. João Santos](https://people.utwente.nl/j.m.oliveiradossantos?tab=overview)), [University of Twente](https://www.utwente.nl/en/), the Netherlands
 - *2018.09 - 2020.02*, M.Sc. in Transportation Engineering (Supervisor: [Prof. Feipeng Xiao](https://tjjt.tongji.edu.cn/info/3027/9634.htm)), [Tongji University](https://en.tongji.edu.cn), China
 - *2014.09 - 2018.07*, B.Eng. in Traffic Engineering, [Tongji University](https://en.tongji.edu.cn), China
 
