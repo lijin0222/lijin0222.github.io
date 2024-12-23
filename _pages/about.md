@@ -96,15 +96,15 @@ Feipeng Xiao, Zhitao Zhang, Zichao Wu, Wentao He*, **Jin Li****
 # 🏆 Honors and Awards
 - *2022* National Scholarship
 - *2021* National Scholarship
-- *2021* WANG Binggang Scholarship
+- *2021* [WANG Binggang](https://news.sciencenet.cn/htmlnews/2021/4/456446.shtm) Scholarship
 - *2019* National Scholarship
 - *2018* University Graduate Excellence Award of Shanghai
-- *2017* YANG Peikun Scholarship
+- *2017* [YANG Peikun](https://tjjt.tongji.edu.cn/info/1101/3112.htm) Scholarship
 - *2016* National Scholarship
 
 <span class='anchor' id='-professional-services'></span>
 # 🛣️ Professional Services
-- **Guest Editor**: materials (Special issue: Material informatics and Machine Learning in Pavement Engineering)
+- **Guest Editor**: materials (Special issue: [Material informatics and Machine Learning in Pavement Engineering](https://www.mdpi.com/journal/materials/special_issues/4XRI671W5O))
 - **Journal Reviewer**: Transportation Research Record; Transportation Research Interdisciplinary Perspectives; Resources, Conservation and Recycling; Journal of Environmental Planning and Management; Journal of Cleaner Production; International Journal of Pavement Research and Technology; Construction and Building Materials; Case Studies in Construction Materials; Journal of Materials in Civil Engineering; Fuel; Petroleum Science and Technology; Sustainability; Buildings; Infrastructures; Cogent Social Sciences; Journal of Road Engineering; Theoretical and Applied Fracture Mechanics
 - **Membership**: International Society of Industrial Ecology (Member); American Society of Civil Engineers (Member)
 - **Mentor**: [Oscar Andres Moncada](https://scholar.google.com/citations?user=-WmbOlIAAAAJ&hl=en&oi=ao) (PhD student at Purdue University); [Wentao He](https://www.scopus.com/authid/detail.uri?authorId=57982903100), [Xin Xiao](https://scholar.google.com/citations?user=9DyFXg4AAAAJ&hl=en&oi=sra) & Zizhuang Yang (PhD students at Tongji University) [Abdulrahman Badughaish](https://scholar.google.com/citations?user=5YGBS6IAAAAJ&hl=en), Linjie Zhu & Chenyu Wang (Master students at Tongji University)
