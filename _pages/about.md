@@ -88,10 +88,10 @@ Feipeng Xiao, Zhitao Zhang, Zichao Wu, Wentao He*, **Jin Li****
 
 <span class='anchor' id='-education-background'></span>
 # 📖 Education Background
-- *2020.03 - 2023.12*, Ph.D. in Transportation Engineering (Supervisor: [Prof. Feipeng Xiao](https://tjjt.tongji.edu.cn/info/3027/9634.htm)), [Tongji University](https://en.tongji.edu.cn), China
+- *2020.03 - 2023.12*, Ph.D. (Supervisor: [Prof. Feipeng Xiao](https://tjjt.tongji.edu.cn/info/3027/9634.htm)), [Tongji University](https://en.tongji.edu.cn), China
 - *2022.12 - 2023.11*, Visiting Ph.D. (Supervisor: [Prof. João Santos](https://people.utwente.nl/j.m.oliveiradossantos?tab=overview)), [University of Twente](https://www.utwente.nl/en/), the Netherlands
-- *2018.09 - 2020.02*, M.Sc. in Transportation Engineering (Supervisor: [Prof. Feipeng Xiao](https://tjjt.tongji.edu.cn/info/3027/9634.htm)), [Tongji University](https://en.tongji.edu.cn), China
-- *2014.09 - 2018.07*, B.Eng. in Traffic Engineering, [Tongji University](https://en.tongji.edu.cn), China
+- *2018.09 - 2020.02*, M.Sc. (Supervisor: [Prof. Feipeng Xiao](https://tjjt.tongji.edu.cn/info/3027/9634.htm)), [Tongji University](https://en.tongji.edu.cn), China
+- *2014.09 - 2018.07*, B.Eng., [Tongji University](https://en.tongji.edu.cn), China
 
 # 🏆 Honors and Awards
 - *2022* National Scholarship
