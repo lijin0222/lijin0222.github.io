@@ -23,7 +23,7 @@ I am currently a postdoctoral research associate at the [Lyles School of Civil a
 
 I earned both my PhD and Bachelor's degrees in Transportation Engineering from [School of Transportation](https://tjjt.tongji.edu.cn/English_Home/HOME.htm) at [Tongji University](https://en.tongji.edu.cn) in Shanghai, China, graduating with honor and the highest GPA in my cohort. I had the opportunity to join the [Department of Civil Engineering and Management](https://www.utwente.nl/en/et/cem/) at [University of Twente](https://www.utwente.nl/en/) in Enschede, the Netherlands as a visiting PhD student for one year.
 
-My research interest includes **pavement sustainability**, **asset management**, **material informatics**, and **transportation electrification**. I have published more than 25 papers as the first/corresponding author at top-tier journals with total <a href='https://scholar.google.com/citations?user=7axMkuEAAAAJ'>google scholar citations <strong><span id='total_cit'>1002</span></strong></a>.
+My research interest includes **pavement sustainability**, **material decarbonization**, **asset management**, **material informatics**, and **transportation electrification**. I have published more than 25 papers as the first/corresponding author at top-tier journals with total <a href='https://scholar.google.com/citations?user=7axMkuEAAAAJ'>google scholar citations <strong><span id='total_cit'>1002</span></strong></a>.
 
 
 # 🔥 News
