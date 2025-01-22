@@ -98,6 +98,7 @@ Feipeng Xiao, Zhitao Zhang, Zichao Wu, Wentao He*, **Jin Li****
 # 🏆 Honors and Awards
 - *2022* National Scholarship
 - *2021* National Scholarship
+- *2021* Science & Technology Progress Award of Shanghai Society of Civil Engineering
 - *2021* [WANG Binggang](https://news.sciencenet.cn/htmlnews/2021/4/456446.shtm) Scholarship
 - *2019* National Scholarship
 - *2018* University Graduate Excellence Award of Shanghai
