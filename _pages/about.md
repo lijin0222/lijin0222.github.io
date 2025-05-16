@@ -27,6 +27,8 @@ My research interest includes **infrastructure sustainability**, **material deca
 
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 New paper accepeted by [Journal of Materials Informatics](https://mp.weixin.qq.com/s/80_52X0QWdRHmqiJg0lPMA).
+- *2025.04*: &nbsp;🎉🎉 New paper accepeted by [Transportation Research Record](https://journals.sagepub.com/home/trr).
 - *2025.01*: &nbsp;🎉🎉 Selected as a Junior Editorial Board Member for [Journal of Materials Informatics](https://mp.weixin.qq.com/s/80_52X0QWdRHmqiJg0lPMA). 
 - *2025.01*: &nbsp;🎉🎉 Selected as a Founding Youth Editorial Board Member for [Carbon Footprints](https://mp.weixin.qq.com/s/5ZLXq3RJk2tzreAHeXBGeQ). 
 - *2024.12*: &nbsp;🎉🎉 New paper accepeted by [Materials Letters](https://www.sciencedirect.com/journal/materials-letters). 
@@ -34,6 +36,30 @@ My research interest includes **infrastructure sustainability**, **material deca
 # 📝 Publications 
 
 **2025**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Materials Informatics</div><img src='images/blank.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Exploring generic fractions of multi-origin asphalts and revisiting the linkage to their bulk properties via machine learning](https://www.oaepublish.com/pre_onlines/jmi.2025.14)
+
+**Jin Li**, Jie Ma, Jie Wu*, Wentao He**, Qian Xiang, Jianmin Ma, Mingjun Hu
+
+**Topic**
+- Material Informatics & Data-Driven Design
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Transportation Research Record</div><img src='images/blank.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Enhanced Temperature Gradient Prediction for Asphalt Layers in Full-Depth Asphalt and Composite Pavement Using Machine Learning Techniques
+
+**Jin Li**, Pablo Orosa, Cheng Zhang, Oscar Andres Moncada, Seonghwan Cho*, Bongsuk Park, John E. Haddock
+
+**Topic**
+- Infrastructure Condition Assessment & Asset Management
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Materials Letters</div><img src='images/blank.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
