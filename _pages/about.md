@@ -39,7 +39,7 @@ My research interest includes **infrastructure sustainability**, **material deca
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Materials Informatics</div><img src='images/blank.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Exploring generic fractions of multi-origin asphalts and revisiting the linkage to their bulk properties via machine learning](https://www.oaepublish.com/pre_onlines/jmi.2025.14)
+[Exploring generic fractions of multi-origin asphalts and revisiting the linkage to their bulk properties via machine learning](https://www.oaepublish.com/articles/jmi.2025.14)
 
 **Jin Li**, Jie Ma, Jie Wu*, Wentao He**, Qian Xiang, Jianmin Ma, Mingjun Hu
 
