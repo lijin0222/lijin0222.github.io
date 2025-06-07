@@ -19,7 +19,7 @@ redirect_from:
 
 你好 (Nǐ hǎo), Hello, Hola, Bonjour, Hallo, こんにちは, 안녕하세요, مرحباً, Ciao, Привет.
 
-I am currently a postdoctoral fellow at the [Department of Civil and Environmental Engineering](https://www.polyu.edu.hk/cee/) at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/). I was a postdoctoral research associate at the [Lyles School of Civil and Construction Engineering](https://engineering.purdue.edu/CCE) at [Purdue University](https://www.purdue.edu), and I was also closely collaborating with the [Indiana Department of Transportation (INDOT)](https://www.in.gov/indot/) on [JTRP](https://engineering.purdue.edu/JTRP) projects.
+I am currently a postdoctoral fellow at the [Department of Civil and Environmental Engineering](https://www.polyu.edu.hk/cee/) at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/). I was a postdoctoral research associate at the [Lyles School of Civil and Construction Engineering](https://engineering.purdue.edu/CCE) at [Purdue University](https://www.purdue.edu), while closely collaborating with the [Indiana Department of Transportation (INDOT)](https://www.in.gov/indot/) on [JTRP](https://engineering.purdue.edu/JTRP) projects.
 
 I earned both my PhD and Bachelor's degrees in Transportation Engineering from [School of Transportation](https://tjjt.tongji.edu.cn/English_Home/HOME.htm) at [Tongji University](https://en.tongji.edu.cn) in Shanghai, China, graduating with honor and the highest GPA in my cohort. I had the opportunity to join the [Department of Civil Engineering and Management](https://www.utwente.nl/en/et/cem/) at [University of Twente](https://www.utwente.nl/en/) in Enschede, the Netherlands as a visiting PhD student for one year.
 
