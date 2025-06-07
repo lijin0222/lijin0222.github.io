@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jin Li (李进)"
   avatar           : "images/profile_image.jpg"
-  bio              : "Postdoc at Purdue & INDOT, PhD in Transportation at Tongji"
-  location         : "West Lafayette, IN, USA"
-  employer         : "Purdue University"
+  bio              : "Postdoc at PolyU, PhD in Transportation at Tongji"
+  location         : "Kowloon, Hong Kong"
+  employer         : "The Hong Kong Polytechnic University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=7axMkuEAAAAJ"
-  email            : "li5290@purdue.edu"
+  email            : "lijin_0222@outlook.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
