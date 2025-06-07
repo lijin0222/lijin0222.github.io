@@ -19,7 +19,7 @@ redirect_from:
 
 你好 (Nǐ hǎo), Hello, Hola, Bonjour, Hallo, こんにちは, 안녕하세요, مرحباً, Ciao, Привет.
 
-I am currently a postdoctoral research associate at the [Lyles School of Civil and Construction Engineering](https://engineering.purdue.edu/CCE) at [Purdue University](https://www.purdue.edu). I am also closely collaborating with the [Indiana Department of Transportation (INDOT)](https://www.in.gov/indot/) on [JTRP](https://engineering.purdue.edu/JTRP) projects.
+I am currently a postdoctoral fellow at the [Department of Civil and Environmental Engineering](https://www.polyu.edu.hk/cee/) at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/). I was a postdoctoral research associate at the [Lyles School of Civil and Construction Engineering](https://engineering.purdue.edu/CCE) at [Purdue University](https://www.purdue.edu), and I was also closely collaborating with the [Indiana Department of Transportation (INDOT)](https://www.in.gov/indot/) on [JTRP](https://engineering.purdue.edu/JTRP) projects.
 
 I earned both my PhD and Bachelor's degrees in Transportation Engineering from [School of Transportation](https://tjjt.tongji.edu.cn/English_Home/HOME.htm) at [Tongji University](https://en.tongji.edu.cn) in Shanghai, China, graduating with honor and the highest GPA in my cohort. I had the opportunity to join the [Department of Civil Engineering and Management](https://www.utwente.nl/en/et/cem/) at [University of Twente](https://www.utwente.nl/en/) in Enschede, the Netherlands as a visiting PhD student for one year.
 
@@ -110,8 +110,9 @@ Feipeng Xiao, Zhitao Zhang, Zichao Wu, Wentao He*, **Jin Li****
 
 <span class='anchor' id='-work-experience'></span>
 # 💻 Work Experience
-- *2024.03 - Present*, Postdoctoral Research Associate (Supervisor: [Prof. John E. Haddock](https://engineering.purdue.edu/CCE/People/ptProfile?resource_id=2045)), [Purdue University](https://www.purdue.edu), the United States
-- *2024.03 - Present*, Postdoctoral Research Associate (Supervisor: Dr. Seonghwan Cho), [Indiana Department of Transportation (INDOT)](https://www.in.gov/indot/), the United States
+- *2025.06 - Present*, Postdoctoral Fellow (Supervisor: [Prof. Yuhong Wang](https://www.polyu.edu.hk/cee/people/academic-staff/prof-yuhong-wang/?sc_lang=en)), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/), Hong Kong
+- *2024.04 - 2025.05*, Postdoctoral Research Associate (Supervisor: [Prof. John E. Haddock](https://engineering.purdue.edu/CCE/People/ptProfile?resource_id=2045)), [Purdue University](https://www.purdue.edu), the United States
+- *2024.04 - 2025.05*, Postdoctoral Research Associate (Supervisor: Dr. Seonghwan Cho), [Indiana Department of Transportation (INDOT)](https://www.in.gov/indot/), the United States
 - *2017.09 - 2017.12*, Student Intern, [Shenzhen Communications Design & Research Institute](https://www.ctdri.com/), China
 
 <span class='anchor' id='-education-background'></span>
