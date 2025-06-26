@@ -51,7 +51,7 @@ My research interest includes **infrastructure sustainability**, **material deca
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Transportation Research Record</div><img src='images/blank.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Enhanced Temperature Gradient Prediction for Asphalt Layers in Full-Depth Asphalt and Composite Pavement Using Machine Learning Techniques
+[Enhanced Temperature Gradient Prediction for Asphalt Layers in Full-Depth Asphalt and Composite Pavement Using Machine Learning Techniques](https://journals.sagepub.com/doi/10.1177/03611981251341325)
 
 **Jin Li**, Pablo Orosa, Cheng Zhang, Oscar Andres Moncada, Seonghwan Cho*, Bongsuk Park, John E. Haddock
 
