@@ -23,7 +23,7 @@ I am currently a postdoctoral fellow at the [Department of Civil and Environment
 
 I earned both my PhD and Bachelor's degrees in Transportation Engineering from [School of Transportation](https://tjjt.tongji.edu.cn/English_Home/HOME.htm) at [Tongji University](https://en.tongji.edu.cn) in Shanghai, China, graduating with honor and the highest GPA in my cohort. I had the opportunity to join the [Department of Civil Engineering and Management](https://www.utwente.nl/en/et/cem/) at [University of Twente](https://www.utwente.nl/en/) in Enschede, the Netherlands as a visiting PhD student for one year.
 
-My research interest includes **infrastructure sustainability**, **material decarbonization**, **asset management**, **material informatics**, and **transportation electrification**.
+My research interest includes **infrastructure sustainability**, **asset management**, **material informatics**, and **transportation electrification**.
 
 
 # 🔥 News
