@@ -31,7 +31,6 @@ My research interest includes **infrastructure sustainability**, **asset managem
 - *2025.04*: &nbsp;🎉🎉 New paper accepeted by [Transportation Research Record](https://journals.sagepub.com/home/trr).
 - *2025.01*: &nbsp;🎉🎉 Selected as a Junior Editorial Board Member for [Journal of Materials Informatics](https://mp.weixin.qq.com/s/80_52X0QWdRHmqiJg0lPMA). 
 - *2025.01*: &nbsp;🎉🎉 Selected as a Founding Youth Editorial Board Member for [Carbon Footprints](https://mp.weixin.qq.com/s/5ZLXq3RJk2tzreAHeXBGeQ). 
-- *2024.12*: &nbsp;🎉🎉 New paper accepeted by [Materials Letters](https://www.sciencedirect.com/journal/materials-letters). 
 
 # 📝 Publications 
 
