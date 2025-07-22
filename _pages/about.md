@@ -36,6 +36,30 @@ My research interest includes **infrastructure sustainability**, **asset managem
 # 📝 Publications 
 
 **2025**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">China Journal of Highway and Transport</div><img src='images/blank.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Compatibility Evaluation of Pretreated Crumb Rubber-Asphalt System under Supercritical Fluid Induction](https://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CAPJ&dbname=CAPJLAST&filename=ZGGL20250704002&uniplatform=OVERSEA&v=6NKDHJelE9F7kmenup0VGiPD2nRAU_tAglIza0qOjwISa7g02BsYR1wVhWraWtue)
+
+**Jin Li**, Jiayu Wang, Feipeng Xiao
+
+**Topic**
+- Infrastructure Sustainability & Materials Decarbonization
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Wireless Power Technology Conference and Expo (WPTCE)</div><img src='images/blank.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Structural Modeling and Assessment of Rigid Pavement with Embedded Dynamic Wireless Power Transfer Components](https://ieeexplore.ieee.org/abstract/document/11062229)
+
+Oscar Andrés Moncada, **Jin Li***, Pablo Orosa, John E. Haddock
+
+**Topic**
+- New Vehicles & Infrastructure Renewal
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Materials Informatics</div><img src='images/blank.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
