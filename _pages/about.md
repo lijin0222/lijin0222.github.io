@@ -91,7 +91,7 @@ Oscar Andrés Moncada, **Jin Li***, Pablo Orosa, John E. Haddock
 
 Pengfei Qiu, Jiakai Lu, Jie Ma, Xiangdao Hou, Tao Wang, **Jin Li***
 
-[**Topic**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7axMkuEAAAAJ&sortby=pubdate&citation_for_view=7axMkuEAAAAJ:mVmsd5A6BfQC) <strong><span class='show_paper_citations' data='7axMkuEAAAAJ:mVmsd5A6BfQC'></span></strong>
+**Topic**
 - Material Informatics & Data-Driven Design
 </div>
 </div>
@@ -104,7 +104,7 @@ Pengfei Qiu, Jiakai Lu, Jie Ma, Xiangdao Hou, Tao Wang, **Jin Li***
 
 **Jin Li**, Joao Santos*, Andrea Vargas-Farias, Daniel Castro-Fresno, Feipeng Xiao**
 
-[**Topic**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7axMkuEAAAAJ&sortby=pubdate&citation_for_view=7axMkuEAAAAJ:aqlVkmm33-oC) <strong><span class='show_paper_citations' data='7axMkuEAAAAJ:aqlVkmm33-oC'></span></strong>
+**Topic**
 - Infrastructure Sustainability & Materials Decarbonization
 </div>
 </div>
@@ -116,7 +116,7 @@ Pengfei Qiu, Jiakai Lu, Jie Ma, Xiangdao Hou, Tao Wang, **Jin Li***
 
 Feipeng Xiao, Zhitao Zhang, Zichao Wu, Wentao He*, **Jin Li****
 
-[**Topic**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7axMkuEAAAAJ&sortby=pubdate&citation_for_view=7axMkuEAAAAJ:Wp0gIr-vW9MC) <strong><span class='show_paper_citations' data='7axMkuEAAAAJ:Wp0gIr-vW9MC'></span></strong>
+**Topic**
 - Infrastructure Condition Assessment & Asset Management
 </div>
 </div>
