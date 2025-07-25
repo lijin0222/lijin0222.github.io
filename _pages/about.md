@@ -32,7 +32,7 @@ My research interest includes **infrastructure sustainability**, **asset managem
 - *2025.01*: &nbsp;🎉🎉 Selected as a Junior Editorial Board Member for [Journal of Materials Informatics](https://mp.weixin.qq.com/s/80_52X0QWdRHmqiJg0lPMA). 
 - *2025.01*: &nbsp;🎉🎉 Selected as a Founding Youth Editorial Board Member for [Carbon Footprints](https://mp.weixin.qq.com/s/5ZLXq3RJk2tzreAHeXBGeQ). 
 
-# 📝 Publications 
+# 📝 Publications (Selected)
 
 **2025**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">China Journal of Highway and Transport</div><img src='images/blank.png' alt="sym" width="100%"></div></div>
