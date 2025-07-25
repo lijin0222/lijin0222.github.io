@@ -83,18 +83,6 @@ Oscar Andrés Moncada, **Jin Li***, Pablo Orosa, John E. Haddock
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Materials Letters</div><img src='images/blank.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Bayesian-optimized ensemble learning for predicting stiffness modulus of asphalt mixtures: A data-driven approach with model interpretation](https://www.sciencedirect.com/science/article/pii/S0167577X24020330)
-
-Pengfei Qiu, Jiakai Lu, Jie Ma, Xiangdao Hou, Tao Wang, **Jin Li***
-
-**Topic**
-- Material Informatics & Data-Driven Design
-</div>
-</div>
-
 **2024**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Resources, Conservation and Recycling</div><img src='images/RCR1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
