@@ -47,7 +47,7 @@ My research interest includes **infrastructure sustainability**, **asset managem
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">China Journal of Highway and Transport</div><img src='images/blank.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">China Journal of Highway and Transport</div><img src='images/CJHT_1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Compatibility Evaluation of Pretreated Crumb Rubber-Asphalt System under Supercritical Fluid Induction](https://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CAPJ&dbname=CAPJLAST&filename=ZGGL20250704002&uniplatform=OVERSEA&v=6NKDHJelE9F7kmenup0VGiPD2nRAU_tAglIza0qOjwISa7g02BsYR1wVhWraWtue)
@@ -71,7 +71,7 @@ Oscar Andrés Moncada, **Jin Li***, Pablo Orosa, John E. Haddock
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Materials Informatics</div><img src='images/blank.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Materials Informatics</div><img src='images/JMI_1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Exploring generic fractions of multi-origin asphalts and revisiting the linkage to their bulk properties via machine learning](https://www.oaepublish.com/articles/jmi.2025.14)
@@ -83,7 +83,7 @@ Oscar Andrés Moncada, **Jin Li***, Pablo Orosa, John E. Haddock
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Transportation Research Record</div><img src='images/blank.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Transportation Research Record</div><img src='images/TRR_1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Enhanced Temperature Gradient Prediction for Asphalt Layers in Full-Depth Asphalt and Composite Pavement Using Machine Learning Techniques](https://journals.sagepub.com/doi/10.1177/03611981251341325)
