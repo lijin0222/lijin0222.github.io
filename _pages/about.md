@@ -27,7 +27,7 @@ My research interest includes **infrastructure sustainability**, **asset managem
 
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 New paper accepeted by [Computer-Aided Civil and Infrastructure Engineering](https://onlinelibrary.wiley.com/journal/14678667?utm_medium=web&utm_source=wileysjf).
+- *2025.08*: &nbsp;🎉🎉 New paper accepeted by [Computer-Aided Civil and Infrastructure Engineering](https://onlinelibrary.wiley.com/journal/14678667?utm_medium=web&utm_source=wileysjf).
 - *2025.05*: &nbsp;🎉🎉 New paper accepeted by [Journal of Materials Informatics](https://www.oaepublish.com/articles/jmi.2025.14).
 - *2025.04*: &nbsp;🎉🎉 New paper accepeted by [Transportation Research Record](https://journals.sagepub.com/home/trr).
 - *2025.01*: &nbsp;🎉🎉 Selected as a Junior Editorial Board Member for [Journal of Materials Informatics](https://mp.weixin.qq.com/s/80_52X0QWdRHmqiJg0lPMA). 
