@@ -35,6 +35,18 @@ My research interest includes **infrastructure sustainability**, **asset managem
 # 📝 Publications (Selected)
 
 **2025**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computer-Aided Civil and Infrastructure Engineering</div><img src='images/blank.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A streamlined approach for probabilistic pavement life-cycle performance prediction via physics-informed neural networks](https://onlinelibrary.wiley.com/journal/14678667?utm_medium=web&utm_source=wileysjf)
+
+**Jin Li**, Wentao He, Huailei Cheng, Haopeng Wang*
+
+**Topic**
+- Infrastructure Condition Assessment & Asset Management
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">China Journal of Highway and Transport</div><img src='images/blank.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
