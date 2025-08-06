@@ -59,7 +59,7 @@ My research interest includes **infrastructure sustainability**, **asset managem
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Wireless Power Technology Conference and Expo (WPTCE)</div><img src='images/blank.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Wireless Power Technology Conference and Expo (WPTCE)</div><img src='images/WPTCE_1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Structural Modeling and Assessment of Rigid Pavement with Embedded Dynamic Wireless Power Transfer Components](https://ieeexplore.ieee.org/abstract/document/11062229)
