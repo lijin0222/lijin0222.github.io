@@ -34,7 +34,7 @@ My research interest includes **infrastructure sustainability**, **asset managem
 - *2025.01*: &nbsp;🎉🎉 Selected as a Founding Youth Editorial Board Member for [Carbon Footprints](https://mp.weixin.qq.com/s/5ZLXq3RJk2tzreAHeXBGeQ).
 - *2024.08*: &nbsp;🎉🎉 New paper accepeted by [Resources, Conservation and Recycling](https://www.sciencedirect.com/journal/resources-conservation-and-recycling).
 
-# 📝 Publications (Selected)
+# 📝 Publications
 
 **2025**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computer-Aided Civil and Infrastructure Engineering</div><img src='images/CACAIE_1.png' alt="sym" width="100%"></div></div>
