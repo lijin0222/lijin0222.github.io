@@ -25,15 +25,17 @@ I obtained both my PhD and Bachelor's degrees in Transportation Engineering from
 
 My research interest includes **infrastructure sustainability**, **asset management**, **material informatics**, and **transportation electrification**.
 
-
+<span class='anchor' id='-news'></span>
 # 🔥 News
 - *2025.08*: &nbsp;🎉🎉 New paper accepeted by [Computer-Aided Civil and Infrastructure Engineering](https://onlinelibrary.wiley.com/journal/14678667?utm_medium=web&utm_source=wileysjf).
 - *2025.05*: &nbsp;🎉🎉 New paper accepeted by [Journal of Materials Informatics](https://www.oaepublish.com/articles/jmi.2025.14).
 - *2025.04*: &nbsp;🎉🎉 New paper accepeted by [Transportation Research Record](https://journals.sagepub.com/home/trr).
 - *2025.01*: &nbsp;🎉🎉 Selected as a Junior Editorial Board Member for [Journal of Materials Informatics](https://mp.weixin.qq.com/s/80_52X0QWdRHmqiJg0lPMA). 
 - *2025.01*: &nbsp;🎉🎉 Selected as a Founding Youth Editorial Board Member for [Carbon Footprints](https://mp.weixin.qq.com/s/5ZLXq3RJk2tzreAHeXBGeQ).
+- *2024.09*: &nbsp;🎉🎉 New paper accepeted by [China Journal of Highway and Transport](https://zgglxb.chd.edu.cn/CN/home).
 - *2024.08*: &nbsp;🎉🎉 New paper accepeted by [Resources, Conservation and Recycling](https://www.sciencedirect.com/journal/resources-conservation-and-recycling).
 
+<span class='anchor' id='-publications'></span>
 # 📝 Publications
 
 **2025**
@@ -147,6 +149,7 @@ Feipeng Xiao, Zhitao Zhang, Zichao Wu, Wentao He*, **Jin Li****
 - *2018.09 - 2020.02*, M.S. (Supervisor: [Prof. Feipeng Xiao](https://tjjt.tongji.edu.cn/info/3027/9634.htm)), [Tongji University](https://en.tongji.edu.cn), China
 - *2014.09 - 2018.07*, B.E., [Tongji University](https://en.tongji.edu.cn), China
 
+<span class='anchor' id='-honors-and-awards'></span>
 # 🏆 Honors and Awards
 - *2022* National Scholarship
 - *2021* National Scholarship
