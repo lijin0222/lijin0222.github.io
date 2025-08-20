@@ -27,7 +27,7 @@ My research interest includes **infrastructure sustainability**, **asset managem
 
 <span class='anchor' id='-news'></span>
 # 🔥 News
-- *2025.08*: &nbsp;🎉🎉 New paper accepeted by [Computer-Aided Civil and Infrastructure Engineering](https://onlinelibrary.wiley.com/journal/14678667?utm_medium=web&utm_source=wileysjf).
+- *2025.08*: &nbsp;🎉🎉 New paper accepeted by [Computer-Aided Civil and Infrastructure Engineering](https://onlinelibrary.wiley.com/doi/10.1111/mice.70040).
 - *2025.05*: &nbsp;🎉🎉 New paper accepeted by [Journal of Materials Informatics](https://www.oaepublish.com/articles/jmi.2025.14).
 - *2025.04*: &nbsp;🎉🎉 New paper accepeted by [Transportation Research Record](https://journals.sagepub.com/home/trr).
 - *2025.01*: &nbsp;🎉🎉 Selected as a Junior Editorial Board Member for [Journal of Materials Informatics](https://mp.weixin.qq.com/s/80_52X0QWdRHmqiJg0lPMA). 
@@ -42,7 +42,7 @@ My research interest includes **infrastructure sustainability**, **asset managem
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computer-Aided Civil and Infrastructure Engineering</div><img src='images/CACAIE_1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A streamlined approach for probabilistic pavement life-cycle performance prediction via physics-informed neural networks](https://onlinelibrary.wiley.com/journal/14678667?utm_medium=web&utm_source=wileysjf)
+[A streamlined approach for probabilistic pavement life-cycle performance prediction via physics-informed neural networks](https://onlinelibrary.wiley.com/doi/10.1111/mice.70040)
 
 **Jin Li**, Wentao He, Huailei Cheng, Haopeng Wang*
 
