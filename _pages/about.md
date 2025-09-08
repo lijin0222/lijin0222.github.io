@@ -32,8 +32,8 @@ My research focuses on **life-cycle management of transportation infrastructure*
 - *2025.04*: &nbsp;🎉🎉 New paper accepeted by [Transportation Research Record](https://journals.sagepub.com/home/trr).
 - *2025.01*: &nbsp;🎉🎉 Selected as a Junior Editorial Board Member for [Journal of Materials Informatics](https://mp.weixin.qq.com/s/80_52X0QWdRHmqiJg0lPMA). 
 - *2025.01*: &nbsp;🎉🎉 Selected as a Founding Youth Editorial Board Member for [Carbon Footprints](https://mp.weixin.qq.com/s/5ZLXq3RJk2tzreAHeXBGeQ).
-- *2024.09*: &nbsp;🎉🎉 New paper accepeted by [China Journal of Highway and Transport](https://zgglxb.chd.edu.cn/CN/home).
-- *2024.08*: &nbsp;🎉🎉 New paper accepeted by [Resources, Conservation and Recycling](https://www.sciencedirect.com/journal/resources-conservation-and-recycling).
+- *2024.09*: &nbsp;🎉🎉 New paper accepeted by [China Journal of Highway and Transport](https://zgglxb.chd.edu.cn/CN/10.19721/j.cnki.1001-7372.2025.08.014).
+- *2024.08*: &nbsp;🎉🎉 New paper accepeted by [Resources, Conservation and Recycling](https://www.sciencedirect.com/science/article/pii/S092134492400421X).
 
 <span class='anchor' id='-publications'></span>
 # 📝 Publications
@@ -54,7 +54,7 @@ My research focuses on **life-cycle management of transportation infrastructure*
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">China Journal of Highway and Transport</div><img src='images/CJHT_1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Compatibility Evaluation of Pretreated Crumb Rubber-Asphalt System under Supercritical Fluid Induction](https://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CAPJ&dbname=CAPJLAST&filename=ZGGL20250704002&uniplatform=OVERSEA&v=6NKDHJelE9F7kmenup0VGiPD2nRAU_tAglIza0qOjwISa7g02BsYR1wVhWraWtue)
+[Compatibility Evaluation of Pretreated Crumb Rubber-Asphalt System under Supercritical Fluid Induction](https://zgglxb.chd.edu.cn/CN/10.19721/j.cnki.1001-7372.2025.08.014)
 
 **Jin Li**, Jiayu Wang, Feipeng Xiao*
 
