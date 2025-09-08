@@ -23,7 +23,7 @@ I am currently a postdoctoral fellow at the [Department of Civil and Environment
 
 I obtained both my PhD and Bachelor's degrees in Transportation Engineering from [School of Transportation](https://tjjt.tongji.edu.cn/English_Home/HOME.htm) at [Tongji University](https://en.tongji.edu.cn) in Shanghai, China, graduating with honor and the highest GPA in my cohort. I joined the [Department of Civil Engineering and Management](https://www.utwente.nl/en/et/cem/) at [University of Twente](https://www.utwente.nl/en/) in Enschede, the Netherlands as a visiting PhD student for one year.
 
-My research interest includes **infrastructure sustainability**, **asset management**, **material informatics**, and **transportation electrification**.
+My research focuses on **life-cycle management of transportation infrastructure**, with emphasis on **sustainable construction**, **intelligent operation**, and **adaptive renewal**.
 
 <span class='anchor' id='-news'></span>
 # 🔥 News
@@ -47,7 +47,7 @@ My research interest includes **infrastructure sustainability**, **asset managem
 **Jin Li**, Wentao He, Huailei Cheng, Haopeng Wang*
 
 **Topic**
-- Infrastructure Condition Assessment & Asset Management
+- Infrastructure Intelligent Operation
 </div>
 </div>
 
@@ -59,7 +59,7 @@ My research interest includes **infrastructure sustainability**, **asset managem
 **Jin Li**, Jiayu Wang, Feipeng Xiao*
 
 **Topic**
-- Infrastructure Sustainability & Materials Decarbonization
+- Infrastructure Sustainable Construction
 </div>
 </div>
 
@@ -71,7 +71,7 @@ My research interest includes **infrastructure sustainability**, **asset managem
 Oscar Andrés Moncada, **Jin Li***, Pablo Orosa, John E. Haddock
 
 **Topic**
-- New Vehicles & Infrastructure Renewal
+- Infrastructure Adaptive Renewal
 </div>
 </div>
 
@@ -95,7 +95,7 @@ Oscar Andrés Moncada, **Jin Li***, Pablo Orosa, John E. Haddock
 **Jin Li**, Pablo Orosa, Cheng Zhang, Oscar Andres Moncada, Seonghwan Cho*, Bongsuk Park, John E. Haddock
 
 **Topic**
-- Infrastructure Condition Assessment & Asset Management
+- Infrastructure Intelligent Operation
 </div>
 </div>
 
@@ -108,7 +108,7 @@ Oscar Andrés Moncada, **Jin Li***, Pablo Orosa, John E. Haddock
 **Jin Li**, Joao Santos*, Andrea Vargas-Farias, Daniel Castro-Fresno, Feipeng Xiao**
 
 **Topic**
-- Infrastructure Sustainability & Materials Decarbonization
+- Infrastructure Sustainable Construction
 </div>
 </div>
 
@@ -120,7 +120,7 @@ Oscar Andrés Moncada, **Jin Li***, Pablo Orosa, John E. Haddock
 Feipeng Xiao, Zhitao Zhang, Zichao Wu, Wentao He*, **Jin Li****
 
 **Topic**
-- Infrastructure Condition Assessment & Asset Management
+- Infrastructure Adaptive Renewal
 </div>
 </div>
 
