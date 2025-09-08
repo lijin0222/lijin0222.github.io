@@ -83,7 +83,7 @@ Oscar Andrés Moncada, **Jin Li***, Pablo Orosa, John E. Haddock
 **Jin Li**, Jie Ma, Jie Wu*, Wentao He**, Qian Xiang, Jianmin Ma, Mingjun Hu
 
 **Topic**
-- Material Informatics & Data-Driven Design
+- Infrastructure Material Informatics
 </div>
 </div>
 
