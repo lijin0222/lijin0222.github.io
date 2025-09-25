@@ -27,6 +27,7 @@ My research focuses on **life-cycle management of transportation infrastructure*
 
 <span class='anchor' id='-news'></span>
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 New paper accepeted by [Energy & Fuels](https://pubs.acs.org/journal/enfuem).
 - *2025.08*: &nbsp;🎉🎉 New paper accepeted by [Computer-Aided Civil and Infrastructure Engineering](https://onlinelibrary.wiley.com/doi/10.1111/mice.70040).
 - *2025.05*: &nbsp;🎉🎉 New paper accepeted by [Journal of Materials Informatics](https://www.oaepublish.com/articles/jmi.2025.14).
 - *2025.04*: &nbsp;🎉🎉 New paper accepeted by [Transportation Research Record](https://journals.sagepub.com/home/trr).
@@ -39,6 +40,18 @@ My research focuses on **life-cycle management of transportation infrastructure*
 # 📝 Publications
 
 **2025**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Energy & Fuels</div><img src='images/ef_1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Improved Asphalt Binder Performance Grading Using Surrogate FTIR Data and Gradient Boosting]([https://onlinelibrary.wiley.com/doi/10.1111/mice.70040](https://pubs.acs.org/journal/enfuem))
+
+Xiaoyan Wang, Jie Ma, Wentao He, **Jin Li***, Zeyu Ma
+
+**Topic**
+- Infrastructure Material Informatics
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computer-Aided Civil and Infrastructure Engineering</div><img src='images/CACAIE_1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
