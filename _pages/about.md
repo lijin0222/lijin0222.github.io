@@ -43,7 +43,7 @@ My research focuses on **life-cycle management of transportation infrastructure*
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Energy & Fuels</div><img src='images/ef_1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Improved Asphalt Binder Performance Grading Using Surrogate FTIR Data and Gradient Boosting]([https://onlinelibrary.wiley.com/doi/10.1111/mice.70040](https://pubs.acs.org/journal/enfuem))
+[Improved Asphalt Binder Performance Grading Using Surrogate FTIR Data and Gradient Boosting](https://pubs.acs.org/doi/10.1021/acs.energyfuels.5c04177)
 
 Xiaoyan Wang, Jie Ma, Wentao He, **Jin Li***, Zeyu Ma
 
