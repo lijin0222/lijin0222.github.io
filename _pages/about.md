@@ -48,7 +48,7 @@ My research focuses on **life-cycle management of transportation infrastructure*
 Xiaoyan Wang, Jie Ma, Wentao He, **Jin Li***, Zeyu Ma
 
 **Topic**
-- Infrastructure Material Informatics
+- Infrastructure Intelligent Operation
 </div>
 </div>
 
@@ -96,7 +96,7 @@ Oscar Andrés Moncada, **Jin Li***, Pablo Orosa, John E. Haddock
 **Jin Li**, Jie Ma, Jie Wu*, Wentao He**, Qian Xiang, Jianmin Ma, Mingjun Hu
 
 **Topic**
-- Infrastructure Material Informatics
+- Infrastructure Intelligent Operation
 </div>
 </div>
 
@@ -140,6 +140,8 @@ Feipeng Xiao, Zhitao Zhang, Zichao Wu, Wentao He*, **Jin Li****
 <span class='anchor' id='-conference-presentations'></span>
 # 🗺️ Conference Presentations
 **2025**
+- *2025.11*, Simulation-Based Mechanical Assessment of Rigid Pavement with Embedded Dynamic Wireless Power Transfer Technology, [ASPIRE Annual Meeting & Technology Showcase](https://aspire.usu.edu/25-annual-meeting/), Logan, Utah, USA.
+- *2025.11*, Compatibilization and decarbonization of asphalt-rubber system induced by supercritical fluid, [Youth Forum on Road and Airport Engineering Research](https://mp.weixin.qq.com/s/Y_LSmyHsd3AP5YVObhKClQ), Wuhan, Hubei, China.
 - *2025.07*, Pavement roughness prediction with ensemble learning: Insights from the Netherlands, [3rd International Symposium on Pavement Functional Design and Management (PFDM 2025)](https://www.pfdm2025.com), Delft, the Netherlands.
 - *2025.06*, Structural Modeling and Assessment of Rigid Pavement with Embedded Dynamic Wireless Power Transfer Components, [IEEE Wireless Power Technology Conference and Expo (WPTCE 2025)](https://ieee-wptce.org), Rome, Italy.
 - *2025.01*, A Survey of Data-Driven Construction Materials Price Forecasting, [The Transportation Research Board (TRB) 104th Annual Meeting](https://trb-annual-meeting.nationalacademies.org), Washington D.C., USA.
