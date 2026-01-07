@@ -40,7 +40,7 @@ My research focuses on **life-cycle management of transportation infrastructure*
 # 📝 Publications
 
 **2026**
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Transportation Research Part D: Transport and Environment</div><img src='images/partd_1.png''images/part'd_1.png''im</div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Transportation Research Part D</div><img src='images/partd_1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Quantifying the counteracting impacts of climate change on large-scale pavement infrastructure serviceability](https://www.sciencedirect.com/science/article/abs/pii/S1361920926000015)
