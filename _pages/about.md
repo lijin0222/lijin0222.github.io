@@ -27,9 +27,10 @@ My research focuses on **life-cycle management of transportation infrastructure*
 
 <span class='anchor' id='-news'></span>
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉 New paper accepeted by [Energy & Fuels](https://pubs.acs.org/journal/enfuem).
+- *2026.01*: &nbsp;🎉🎉 New paper accepeted by [Transportation Research Part D: Transport and Environment](https://www.sciencedirect.com/science/article/abs/pii/S1361920926000015).
+- *2025.09*: &nbsp;🎉🎉 New paper accepeted by [Energy & Fuels](https://pubs.acs.org/doi/10.1021/acs.energyfuels.5c04177).
 - *2025.08*: &nbsp;🎉🎉 New paper accepeted by [Computer-Aided Civil and Infrastructure Engineering](https://onlinelibrary.wiley.com/doi/10.1111/mice.70040).
-- *2025.04*: &nbsp;🎉🎉 New paper accepeted by [Transportation Research Record](https://journals.sagepub.com/home/trr).
+- *2025.04*: &nbsp;🎉🎉 New paper accepeted by [Transportation Research Record](https://journals.sagepub.com/doi/10.1177/03611981251341325).
 - *2025.01*: &nbsp;🎉🎉 Selected as a Junior Editorial Board Member for [Journal of Materials Informatics](https://mp.weixin.qq.com/s/80_52X0QWdRHmqiJg0lPMA). 
 - *2025.01*: &nbsp;🎉🎉 Selected as a Founding Youth Editorial Board Member for [Carbon Footprints](https://mp.weixin.qq.com/s/5ZLXq3RJk2tzreAHeXBGeQ).
 - *2024.09*: &nbsp;🎉🎉 New paper accepeted by [China Journal of Highway and Transport](https://zgglxb.chd.edu.cn/CN/10.19721/j.cnki.1001-7372.2025.08.014).
@@ -37,6 +38,19 @@ My research focuses on **life-cycle management of transportation infrastructure*
 
 <span class='anchor' id='-publications'></span>
 # 📝 Publications
+
+**2026**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Transportation Research Part D: Transport and Environment</div><img src='images/partd_1.png''images/part'd_1.png''im</div></div>
+<div class='paper-box-text' markdown="1">
+
+[Quantifying the counteracting impacts of climate change on large-scale pavement infrastructure serviceability](https://www.sciencedirect.com/science/article/abs/pii/S1361920926000015)
+
+**Jin Li**, Wentao He, He Zhang, Hao Shi, Huailei Cheng*, Lijun Sun
+
+**Topic**
+- Infrastructure Adaptive Renewal
+</div>
+</div>
 
 **2025**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Energy & Fuels</div><img src='images/ef_1.png' alt="sym" width="100%"></div></div>
