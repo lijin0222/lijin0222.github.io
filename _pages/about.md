@@ -27,14 +27,14 @@ My research focuses on **life-cycle management of transportation infrastructure*
 
 <span class='anchor' id='-news'></span>
 # 🔥 News
-- *2026.01*: &nbsp;🎉🎉 New paper accepeted by [Transportation Research Part D: Transport and Environment](https://www.sciencedirect.com/science/article/abs/pii/S1361920926000015).
-- *2025.09*: &nbsp;🎉🎉 New paper accepeted by [Energy & Fuels](https://pubs.acs.org/doi/10.1021/acs.energyfuels.5c04177).
-- *2025.08*: &nbsp;🎉🎉 New paper accepeted by [Computer-Aided Civil and Infrastructure Engineering](https://onlinelibrary.wiley.com/doi/10.1111/mice.70040).
-- *2025.04*: &nbsp;🎉🎉 New paper accepeted by [Transportation Research Record](https://journals.sagepub.com/doi/10.1177/03611981251341325).
+- *2026.01*: &nbsp;🎉🎉 New paper accepeted by [Transportation Research Part D: Transport and Environment](https://www.sciencedirect.com/journal/transportation-research-part-d-transport-and-environment).
+- *2025.09*: &nbsp;🎉🎉 New paper accepeted by [Energy & Fuels](https://pubs.acs.org/journal/enfuem).
+- *2025.08*: &nbsp;🎉🎉 New paper accepeted by [Computer-Aided Civil and Infrastructure Engineering](https://onlinelibrary.wiley.com/journal/14678667).
+- *2025.04*: &nbsp;🎉🎉 New paper accepeted by [Transportation Research Record: Journal of the Transportation Research Board](https://journals.sagepub.com/home/trr).
 - *2025.01*: &nbsp;🎉🎉 Selected as a Junior Editorial Board Member for [Journal of Materials Informatics](https://mp.weixin.qq.com/s/80_52X0QWdRHmqiJg0lPMA). 
 - *2025.01*: &nbsp;🎉🎉 Selected as a Founding Youth Editorial Board Member for [Carbon Footprints](https://mp.weixin.qq.com/s/5ZLXq3RJk2tzreAHeXBGeQ).
-- *2024.09*: &nbsp;🎉🎉 New paper accepeted by [China Journal of Highway and Transport](https://zgglxb.chd.edu.cn/CN/10.19721/j.cnki.1001-7372.2025.08.014).
-- *2024.08*: &nbsp;🎉🎉 New paper accepeted by [Resources, Conservation and Recycling](https://www.sciencedirect.com/science/article/pii/S092134492400421X).
+- *2024.09*: &nbsp;🎉🎉 New paper accepeted by [China Journal of Highway and Transport](https://zgglxb.chd.edu.cn/EN/home).
+- *2024.08*: &nbsp;🎉🎉 New paper accepeted by [Resources, Conservation and Recycling](https://www.sciencedirect.com/journal/resources-conservation-and-recycling).
 
 <span class='anchor' id='-publications'></span>
 # 📝 Publications
