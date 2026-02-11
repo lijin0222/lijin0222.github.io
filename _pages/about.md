@@ -168,7 +168,6 @@ Feipeng Xiao, Zhitao Zhang, Zichao Wu, Wentao He*, **Jin Li****
 - *2025.06 - Present*, Postdoctoral Fellow (Supervisor: [Prof. Yuhong Wang](https://www.polyu.edu.hk/cee/people/academic-staff/prof-yuhong-wang/?sc_lang=en)), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/), Hong Kong
 - *2024.04 - 2025.05*, Postdoctoral Research Associate (Supervisor: [Prof. John E. Haddock](https://engineering.purdue.edu/CCE/People/ptProfile?resource_id=2045)), [Purdue University](https://www.purdue.edu), the United States
 - *2024.04 - 2025.05*, Postdoctoral Research Associate (Supervisor: Dr. Seonghwan Cho), [Indiana Department of Transportation (INDOT)](https://www.in.gov/indot/), the United States
-- *2017.09 - 2017.12*, Student Intern, [Shenzhen Communications Design & Research Institute](https://www.ctdri.com/), China
 
 <span class='anchor' id='-education-background'></span>
 # 📖 Education Background
