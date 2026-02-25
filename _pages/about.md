@@ -53,6 +53,18 @@ My research focuses on **life-cycle management of transportation infrastructure*
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Journal of Pavement Engineering</div><img src='images/IJPE_1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A new temperature correction methodology for FWD deflections on full-depth asphalt pavements](https://www.tandfonline.com/doi/full/10.1080/10298436.2026.2634956)
+
+**Jin Li**, Pablo Orosa, Cheng Zhang, Seonghwan Cho*, Bongsuk Park, John E. Haddock
+
+**Topic**
+- Infrastructure Intelligent Operation
+</div>
+</div>
+
 **2025**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Energy & Fuels</div><img src='images/ef_1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
