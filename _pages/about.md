@@ -27,6 +27,7 @@ My research focuses on **life-cycle management of transportation infrastructure*
 
 <span class='anchor' id='-news'></span>
 # 🔥 News
+- *2026.03*: &nbsp;🎉🎉 Selected as a Handling Editor for [Transportation Research Record: Journal of the Transportation Research Board](https://journals.sagepub.com/home/trr).
 - *2026.02*: &nbsp;🎉🎉 New paper accepeted by [International Journal of Pavement Engineering](https://www.tandfonline.com/journals/gpav20).
 - *2026.01*: &nbsp;🎉🎉 New paper accepeted by [Transportation Research Part D: Transport and Environment](https://www.sciencedirect.com/journal/transportation-research-part-d-transport-and-environment).
 - *2025.09*: &nbsp;🎉🎉 New paper accepeted by [Energy & Fuels](https://pubs.acs.org/journal/enfuem).
