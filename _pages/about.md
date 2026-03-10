@@ -27,7 +27,7 @@ My research focuses on **life-cycle management of transportation infrastructure*
 
 <span class='anchor' id='-news'></span>
 # 🔥 News
-- *2026.03*: &nbsp;🎉🎉 Selected as a Handling Editor for [Transportation Research Record: Journal of the Transportation Research Board](https://journals.sagepub.com/home/trr).
+- *2026.03*: &nbsp;🎉🎉 Selected as a Handling Editor for [Transportation Research Record](https://journals.sagepub.com/home/trr).
 - *2026.02*: &nbsp;🎉🎉 New paper accepeted by [International Journal of Pavement Engineering](https://www.tandfonline.com/journals/gpav20).
 - *2026.01*: &nbsp;🎉🎉 New paper accepeted by [Transportation Research Part D: Transport and Environment](https://www.sciencedirect.com/journal/transportation-research-part-d-transport-and-environment).
 - *2025.09*: &nbsp;🎉🎉 New paper accepeted by [Energy & Fuels](https://pubs.acs.org/journal/enfuem).
@@ -203,7 +203,7 @@ Feipeng Xiao, Zhitao Zhang, Zichao Wu, Wentao He*, **Jin Li****
 
 <span class='anchor' id='-professional-services'></span>
 # 🛣️ Professional Services
-- **Editorial Board**: [Transportation Research Record: Journal of the Transportation Research Board](https://journals.sagepub.com/home/trr); [Journal of Materials Informatics](https://www.oaepublish.com/jmi)
+- **Editorial Board**: [Transportation Research Record](https://journals.sagepub.com/home/trr); [Journal of Materials Informatics](https://www.oaepublish.com/jmi)
 - **Guest Editor (Selected)**: Materials (Special issue: [Materials Informatics and Machine Learning in Pavement Engineering](https://www.mdpi.com/journal/materials/special_issues/4XRI671W5O)); Infrastructures (Special issue: [Pavement Performance and Maintenance: Smart Technologies and Sustainable Practices](https://www.mdpi.com/journal/infrastructures/special_issues/JE4CD0DC9T))
 - **Journal Reviewer (Selected)**: Resources, Conservation and Recycling; Transportation Research Record; Journal of Environmental Planning and Management; International Journal of Pavement Research and Technology; Journal of Materials in Civil Engineering; Fuel; Theoretical and Applied Fracture Mechanics; Structural Durability & Health Monitoring
 - **Membership**: [International Society of Industrial Ecology](https://www.is4ie.org) (Member); [American Society of Civil Engineers](https://www.asce.org) (Member); [Shanghai Society of Traffic Engineering](https://www.shjtgcxh.com/odbc/b3249/l1.asp?cny=404)
