@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "Jin Li"
+excerpt: "Postdoctoral Fellow in Pavement Engineering"
 author_profile: true
 redirect_from: 
   - /about/
@@ -28,15 +28,15 @@ My research focuses on **life-cycle management of transportation infrastructure*
 <span class='anchor' id='-news'></span>
 # 🔥 News
 - *2026.03*: &nbsp;🎉🎉 Selected as a Handling Editor for [Transportation Research Record](https://journals.sagepub.com/home/trr).
-- *2026.02*: &nbsp;🎉🎉 New paper accepeted by [International Journal of Pavement Engineering](https://www.tandfonline.com/journals/gpav20).
-- *2026.01*: &nbsp;🎉🎉 New paper accepeted by [Transportation Research Part D: Transport and Environment](https://www.sciencedirect.com/journal/transportation-research-part-d-transport-and-environment).
-- *2025.09*: &nbsp;🎉🎉 New paper accepeted by [Energy & Fuels](https://pubs.acs.org/journal/enfuem).
-- *2025.08*: &nbsp;🎉🎉 New paper accepeted by [Computer-Aided Civil and Infrastructure Engineering](https://onlinelibrary.wiley.com/journal/14678667).
-- *2025.04*: &nbsp;🎉🎉 New paper accepeted by [Transportation Research Record: Journal of the Transportation Research Board](https://journals.sagepub.com/home/trr).
+- *2026.02*: &nbsp;🎉🎉 New paper accepted by [International Journal of Pavement Engineering](https://www.tandfonline.com/journals/gpav20).
+- *2026.01*: &nbsp;🎉🎉 New paper accepted by [Transportation Research Part D: Transport and Environment](https://www.sciencedirect.com/journal/transportation-research-part-d-transport-and-environment).
+- *2025.09*: &nbsp;🎉🎉 New paper accepted by [Energy & Fuels](https://pubs.acs.org/journal/enfuem).
+- *2025.08*: &nbsp;🎉🎉 New paper accepted by [Computer-Aided Civil and Infrastructure Engineering](https://onlinelibrary.wiley.com/journal/14678667).
+- *2025.04*: &nbsp;🎉🎉 New paper accepted by [Transportation Research Record: Journal of the Transportation Research Board](https://journals.sagepub.com/home/trr).
 - *2025.01*: &nbsp;🎉🎉 Selected as a Junior Editorial Board Member for [Journal of Materials Informatics](https://mp.weixin.qq.com/s/80_52X0QWdRHmqiJg0lPMA). 
 - *2025.01*: &nbsp;🎉🎉 Selected as a Founding Youth Editorial Board Member for [Carbon Footprints](https://mp.weixin.qq.com/s/5ZLXq3RJk2tzreAHeXBGeQ).
-- *2024.09*: &nbsp;🎉🎉 New paper accepeted by [China Journal of Highway and Transport](https://zgglxb.chd.edu.cn/EN/home).
-- *2024.08*: &nbsp;🎉🎉 New paper accepeted by [Resources, Conservation and Recycling](https://www.sciencedirect.com/journal/resources-conservation-and-recycling).
+- *2024.09*: &nbsp;🎉🎉 New paper accepted by [China Journal of Highway and Transport](https://zgglxb.chd.edu.cn/EN/home).
+- *2024.08*: &nbsp;🎉🎉 New paper accepted by [Resources, Conservation and Recycling](https://www.sciencedirect.com/journal/resources-conservation-and-recycling).
 
 <span class='anchor' id='-publications'></span>
 # 📝 Publications
