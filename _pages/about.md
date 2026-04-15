@@ -43,6 +43,18 @@ My research focuses on **life-cycle management of transportation infrastructure*
 # 📝 Publications
 
 **2026**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Transportation Geotechnics</div><img src='images/TransGeo_1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Mechanical performance of rigid pavement with embedded dynamic wireless power transfer technology: A simulation-based assessment](https://www.sciencedirect.com/science/article/pii/S2214391226001558)
+
+Oscar A. Moncada, **Jin Li***, Pablo Orosa, John E. Haddock
+
+**Topic**
+- Infrastructure Adaptive Renewal
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Journal of Pavement Engineering</div><img src='images/IJPE_1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
