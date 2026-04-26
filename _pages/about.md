@@ -116,30 +116,6 @@ Xiaoyan Wang, Jie Ma, Wentao He, **Jin Li***, Zeyu Ma
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Wireless Power Technology Conference and Expo (WPTCE)</div><img src='images/WPTCE_1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Structural Modeling and Assessment of Rigid Pavement with Embedded Dynamic Wireless Power Transfer Components](https://ieeexplore.ieee.org/abstract/document/11062229)
-
-Oscar Andrés Moncada, **Jin Li***, Pablo Orosa, John E. Haddock
-
-**Topic**
-- Infrastructure Adaptive Renewal
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Materials Informatics</div><img src='images/JMI_1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Exploring generic fractions of multi-origin asphalts and revisiting the linkage to their bulk properties via machine learning](https://www.oaepublish.com/articles/jmi.2025.14)
-
-**Jin Li**, Jie Ma, Jie Wu*, Wentao He**, Qian Xiang, Jianmin Ma, Mingjun Hu
-
-**Topic**
-- Infrastructure Intelligent Operation
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Transportation Research Record</div><img src='images/TRR_1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
