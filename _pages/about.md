@@ -27,17 +27,17 @@ My research focuses on **life-cycle management of transportation infrastructure*
 
 <span class='anchor' id='-news'></span>
 # 🔥 News
-- *2026.04*: &nbsp;🎉🎉 New paper accepted by [Transportation Geotechnics](https://www.sciencedirect.com/journal/transportation-geotechnics).
+- *2026.04*: &nbsp;🎉🎉 New paper accepted by [Transportation Geotechnics](https://www.sciencedirect.com/science/article/pii/S2214391226001558).
 - *2026.03*: &nbsp;🎉🎉 Selected as a Handling Editor for [Transportation Research Record](https://journals.sagepub.com/home/trr).
-- *2026.02*: &nbsp;🎉🎉 New paper accepted by [International Journal of Pavement Engineering](https://www.tandfonline.com/journals/gpav20).
-- *2026.01*: &nbsp;🎉🎉 New paper accepted by [Transportation Research Part D: Transport and Environment](https://www.sciencedirect.com/journal/transportation-research-part-d-transport-and-environment).
-- *2025.09*: &nbsp;🎉🎉 New paper accepted by [Energy & Fuels](https://pubs.acs.org/journal/enfuem).
-- *2025.08*: &nbsp;🎉🎉 New paper accepted by [Computer-Aided Civil and Infrastructure Engineering](https://onlinelibrary.wiley.com/journal/14678667).
-- *2025.04*: &nbsp;🎉🎉 New paper accepted by [Transportation Research Record: Journal of the Transportation Research Board](https://journals.sagepub.com/home/trr).
+- *2026.02*: &nbsp;🎉🎉 New paper accepted by [International Journal of Pavement Engineering](https://www.tandfonline.com/doi/full/10.1080/10298436.2026.2634956).
+- *2026.01*: &nbsp;🎉🎉 New paper accepted by [Transportation Research Part D: Transport and Environment](https://www.sciencedirect.com/science/article/abs/pii/S1361920926000015).
+- *2025.09*: &nbsp;🎉🎉 New paper accepted by [Energy & Fuels](https://pubs.acs.org/doi/10.1021/acs.energyfuels.5c04177).
+- *2025.08*: &nbsp;🎉🎉 New paper accepted by [Computer-Aided Civil and Infrastructure Engineering](https://onlinelibrary.wiley.com/doi/10.1111/mice.70040).
+- *2025.04*: &nbsp;🎉🎉 New paper accepted by [Transportation Research Record](https://journals.sagepub.com/doi/10.1177/03611981251341325).
 - *2025.01*: &nbsp;🎉🎉 Selected as a Junior Editorial Board Member for [Journal of Materials Informatics](https://mp.weixin.qq.com/s/80_52X0QWdRHmqiJg0lPMA). 
 - *2025.01*: &nbsp;🎉🎉 Selected as a Founding Youth Editorial Board Member for [Carbon Footprints](https://mp.weixin.qq.com/s/5ZLXq3RJk2tzreAHeXBGeQ).
 - *2024.09*: &nbsp;🎉🎉 New paper accepted by [China Journal of Highway and Transport](https://zgglxb.chd.edu.cn/EN/home).
-- *2024.08*: &nbsp;🎉🎉 New paper accepted by [Resources, Conservation and Recycling](https://www.sciencedirect.com/journal/resources-conservation-and-recycling).
+- *2024.08*: &nbsp;🎉🎉 New paper accepted by [Resources, Conservation and Recycling](https://linkinghub.elsevier.com/retrieve/pii/S092134492400421X).
 
 <span class='anchor' id='-publications'></span>
 # 📝 Publications
@@ -194,7 +194,7 @@ Feipeng Xiao, Zhitao Zhang, Zichao Wu, Wentao He*, **Jin Li****
 # 🛣️ Professional Services
 - **Editorial Board**: [Transportation Research Record](https://journals.sagepub.com/home/trr); [Journal of Materials Informatics](https://www.oaepublish.com/jmi)
 - **Guest Editor (Selected)**: Materials (Special issue: [Materials Informatics and Machine Learning in Pavement Engineering](https://www.mdpi.com/journal/materials/special_issues/4XRI671W5O)); Infrastructures (Special issue: [Pavement Performance and Maintenance: Smart Technologies and Sustainable Practices](https://www.mdpi.com/journal/infrastructures/special_issues/JE4CD0DC9T))
-- **Journal Reviewer (Selected)**: Resources, Conservation and Recycling; Transportation Research Record; Journal of Computing in Civil Engineering; Theoretical and Applied Fracture Mechanics; Structural Durability & Health Monitoring; Fuel; Journal of Environmental Planning and Management; International Journal of Pavement Research and Technology
+- **Journal Reviewer (Selected)**: Transportation Research Record; Journal of Computing in Civil Engineering; Resources, Conservation and Recycling; Theoretical and Applied Fracture Mechanics; Structural Durability & Health Monitoring; Fuel; Journal of Environmental Planning and Management; International Journal of Pavement Research and Technology
 - **Membership**: [International Society of Industrial Ecology](https://www.is4ie.org) (Member); [American Society of Civil Engineers](https://www.asce.org) (Member); [Shanghai Society of Traffic Engineering](https://www.shjtgcxh.com/odbc/b3249/l1.asp?cny=404)
 - **Mentor**: [Oscar Andres Moncada](https://scholar.google.com/citations?user=-WmbOlIAAAAJ&hl=en&oi=ao) (PhD student at Purdue University); [Wentao He](https://www.scopus.com/authid/detail.uri?authorId=57982903100), [Xin Xiao](https://scholar.google.com/citations?user=9DyFXg4AAAAJ&hl=en&oi=sra) & Zizhuang Yang (PhD students at Tongji University) [Abdulrahman Badughaish](https://scholar.google.com/citations?user=5YGBS6IAAAAJ&hl=en), Linjie Zhu & Chenyu Wang (Master students at Tongji University)
 
