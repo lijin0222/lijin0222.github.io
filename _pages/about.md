@@ -192,7 +192,7 @@ Feipeng Xiao, Zhitao Zhang, Zichao Wu, Wentao He*, **Jin Li****
 
 <span class='anchor' id='-professional-services'></span>
 # 🛣️ Professional Services
-- **Editorial Board**: [Transportation Research Record](https://journals.sagepub.com/home/trr)
+- **Editorial Board**: [Transportation Research Record](https://journals.sagepub.com/editorial-board/trr)
 - **Journal Reviewer (Selected)**: Transportation Research Record; Journal of Computing in Civil Engineering; Resources, Conservation and Recycling; Theoretical and Applied Fracture Mechanics; Structural Durability & Health Monitoring; Fuel; Environmental Research; International Journal of Pavement Research and Technology
 - **Membership**: [International Society of Industrial Ecology](https://www.is4ie.org) (Member); [American Society of Civil Engineers](https://www.asce.org) (Member); [Shanghai Society of Traffic Engineering](https://www.shjtgcxh.com/odbc/b3249/l1.asp?cny=404)
 - **Mentor**: [Oscar Andres Moncada](https://scholar.google.com/citations?user=-WmbOlIAAAAJ&hl=en&oi=ao) (PhD student at Purdue University); [Wentao He](https://www.scopus.com/authid/detail.uri?authorId=57982903100), [Xin Xiao](https://scholar.google.com/citations?user=9DyFXg4AAAAJ&hl=en&oi=sra) & Zizhuang Yang (PhD students at Tongji University) [Abdulrahman Badughaish](https://scholar.google.com/citations?user=5YGBS6IAAAAJ&hl=en), Linjie Zhu & Chenyu Wang (Master students at Tongji University)
