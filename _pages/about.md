@@ -27,6 +27,7 @@ My research focuses on **life-cycle management of transportation infrastructure*
 
 <span class='anchor' id='-news'></span>
 # 🔥 News
+- *2026.06*: &nbsp;🎉🎉 New paper accepted by [Road Materials and Pavement Design](https://www.tandfonline.com/journals/trmp20).
 - *2026.04*: &nbsp;🎉🎉 New paper accepted by [Transportation Geotechnics](https://www.sciencedirect.com/science/article/pii/S2214391226001558).
 - *2026.03*: &nbsp;🎉🎉 Selected as a Handling Editor for [Transportation Research Record](https://journals.sagepub.com/home/trr).
 - *2026.02*: &nbsp;🎉🎉 New paper accepted by [International Journal of Pavement Engineering](https://www.tandfonline.com/doi/full/10.1080/10298436.2026.2634956).
