@@ -197,6 +197,3 @@ Feipeng Xiao, Zhitao Zhang, Zichao Wu, Wentao He*, **Jin Li****
 - **Journal Reviewer (Selected)**: Transportation Research Record; Computer-Aided Civil and Infrastructure Engineering; Journal of Computing in Civil Engineering; Applied Energy; Journal of Transportation Engineering, Part B: Pavements; Resources, Conservation and Recycling
 - **Membership**: [International Society of Industrial Ecology](https://www.is4ie.org) (Member); [American Society of Civil Engineers](https://www.asce.org) (Member); [Shanghai Society of Traffic Engineering](https://www.shjtgcxh.com/odbc/b3249/l1.asp?cny=404)
 - **Mentor**: [Oscar Andres Moncada](https://scholar.google.com/citations?user=-WmbOlIAAAAJ&hl=en&oi=ao) (PhD student at Purdue University); [Wentao He](https://www.scopus.com/authid/detail.uri?authorId=57982903100), [Xin Xiao](https://scholar.google.com/citations?user=9DyFXg4AAAAJ&hl=en&oi=sra) & Zizhuang Yang (PhD students at Tongji University) [Abdulrahman Badughaish](https://scholar.google.com/citations?user=5YGBS6IAAAAJ&hl=en), Linjie Zhu & Chenyu Wang (Master students at Tongji University)
-
-# 🐾 Visitor Map
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=tMl7ri3Q2RqfJWNCZtcnS59LlFoNCK1puzjt-BhZgk4&cl=ffffff&w=a"></script>
