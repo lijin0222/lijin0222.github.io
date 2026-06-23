@@ -25,6 +25,8 @@ I obtained both my PhD and Bachelor's degrees in Transportation Engineering from
 
 My research focuses on **life-cycle management of transportation infrastructure**, with emphasis on **sustainable construction**, **intelligent operation**, and **adaptive renewal**.
 
+(I am running a WeChat public account where I share academic opportunities and research updates in roadway and airport pavement engineering; if you are interested, please click the WeChat icon on the left to follow the link.)
+
 <span class='anchor' id='-news'></span>
 # 🔥 News
 - *2026.06*: &nbsp;🎉🎉 New paper accepted by [Road Materials and Pavement Design](https://www.tandfonline.com/doi/full/10.1080/14680629.2026.2691103).
