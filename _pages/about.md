@@ -44,117 +44,50 @@ My research focuses on **life-cycle management of transportation infrastructure*
 
 <span class='anchor' id='-publications'></span>
 # 📝 Publications
+## 2026
 
-**2026**
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Transportation Geotechnics</div><img src='images/TransGeo_1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- *Transportation Geotechnics*: &nbsp;[Mechanical performance of rigid pavement with embedded dynamic wireless power transfer technology: A simulation-based assessment](https://www.sciencedirect.com/science/article/pii/S2214391226001558).  
+  Oscar A. Moncada, **Jin Li**\*, Pablo Orosa, John E. Haddock.  
+  **Topic:** Infrastructure Adaptive Renewal.
 
-[Mechanical performance of rigid pavement with embedded dynamic wireless power transfer technology: A simulation-based assessment](https://www.sciencedirect.com/science/article/pii/S2214391226001558)
+- *International Journal of Pavement Engineering*: &nbsp;[A new temperature correction methodology for FWD deflections on full-depth asphalt pavements](https://www.tandfonline.com/doi/full/10.1080/10298436.2026.2634956).  
+  **Jin Li**, Pablo Orosa, Cheng Zhang, Seonghwan Cho\*, Bongsuk Park, John E. Haddock.  
+  **Topic:** Infrastructure Intelligent Operation.
 
-Oscar A. Moncada, **Jin Li***, Pablo Orosa, John E. Haddock
+- *Transportation Research Part D: Transport and Environment*: &nbsp;[Quantifying the counteracting impacts of climate change on large-scale pavement infrastructure serviceability](https://www.sciencedirect.com/science/article/abs/pii/S1361920926000015).  
+  **Jin Li**, Wentao He, He Zhang, Hao Shi, Huailei Cheng\*, Lijun Sun.  
+  **Topic:** Infrastructure Adaptive Renewal.
 
-**Topic**
-- Infrastructure Adaptive Renewal
-</div>
-</div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Journal of Pavement Engineering</div><img src='images/IJPE_1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+## 2025
 
-[A new temperature correction methodology for FWD deflections on full-depth asphalt pavements](https://www.tandfonline.com/doi/full/10.1080/10298436.2026.2634956)
+- *Energy & Fuels*: &nbsp;[Improved Asphalt Binder Performance Grading Using Surrogate FTIR Data and Gradient Boosting](https://pubs.acs.org/doi/10.1021/acs.energyfuels.5c04177).  
+  Xiaoyan Wang, Jie Ma, Wentao He, **Jin Li**\*, Zeyu Ma.  
+  **Topic:** Infrastructure Intelligent Operation.
 
-**Jin Li**, Pablo Orosa, Cheng Zhang, Seonghwan Cho*, Bongsuk Park, John E. Haddock
+- *Computer-Aided Civil and Infrastructure Engineering*: &nbsp;[A streamlined approach for probabilistic pavement life-cycle performance prediction via physics-informed neural networks](https://onlinelibrary.wiley.com/doi/10.1111/mice.70040).  
+  **Jin Li**, Wentao He, Huailei Cheng, Haopeng Wang\*.  
+  **Topic:** Infrastructure Intelligent Operation.
 
-**Topic**
-- Infrastructure Intelligent Operation
-</div>
-</div>
+- *China Journal of Highway and Transport*: &nbsp;[Compatibility Evaluation of Pretreated Crumb Rubber-Asphalt System under Supercritical Fluid Induction](https://zgglxb.chd.edu.cn/CN/10.19721/j.cnki.1001-7372.2025.08.014).  
+  **Jin Li**, Jiayu Wang, Feipeng Xiao\*.  
+  **Topic:** Infrastructure Sustainable Construction.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Transportation Research Part D</div><img src='images/partd_1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- *Transportation Research Record*: &nbsp;[Enhanced Temperature Gradient Prediction for Asphalt Layers in Full-Depth Asphalt and Composite Pavement Using Machine Learning Techniques](https://journals.sagepub.com/doi/10.1177/03611981251341325).  
+  **Jin Li**, Pablo Orosa, Cheng Zhang, Oscar Andres Moncada, Seonghwan Cho\*, Bongsuk Park, John E. Haddock.  
+  **Topic:** Infrastructure Intelligent Operation.
 
-[Quantifying the counteracting impacts of climate change on large-scale pavement infrastructure serviceability](https://www.sciencedirect.com/science/article/abs/pii/S1361920926000015)
 
-**Jin Li**, Wentao He, He Zhang, Hao Shi, Huailei Cheng*, Lijun Sun
+## 2024
 
-**Topic**
-- Infrastructure Adaptive Renewal
-</div>
-</div>
+- *Resources, Conservation and Recycling*: &nbsp;[Prospective LCA of valorizing ELTs in asphalt mixtures with emerging pretreatment technologies of crumb rubber](https://www.sciencedirect.com/science/article/pii/S092134492400421X).  
+  **Jin Li**, Joao Santos\*, Andrea Vargas-Farias, Daniel Castro-Fresno, Feipeng Xiao\*\*.  
+  **Topic:** Infrastructure Sustainable Construction.
 
-**2025**
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Energy & Fuels</div><img src='images/ef_1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- *International Journal of Transportation Science and Technology*: &nbsp;[Machine learning-based climate zoning and asphalt selection for pavement infrastructure under changing climate: A focused study of Ningxia, China](https://www.sciencedirect.com/science/article/pii/S2046043024001229).  
+  Feipeng Xiao, Zhitao Zhang, Zichao Wu, Wentao He\*, **Jin Li**\*\*.  
+  **Topic:** Infrastructure Adaptive Renewal.
 
-[Improved Asphalt Binder Performance Grading Using Surrogate FTIR Data and Gradient Boosting](https://pubs.acs.org/doi/10.1021/acs.energyfuels.5c04177)
-
-Xiaoyan Wang, Jie Ma, Wentao He, **Jin Li***, Zeyu Ma
-
-**Topic**
-- Infrastructure Intelligent Operation
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computer-Aided Civil and Infrastructure Engineering</div><img src='images/CACAIE_1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[A streamlined approach for probabilistic pavement life-cycle performance prediction via physics-informed neural networks](https://onlinelibrary.wiley.com/doi/10.1111/mice.70040)
-
-**Jin Li**, Wentao He, Huailei Cheng, Haopeng Wang*
-
-**Topic**
-- Infrastructure Intelligent Operation
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">China Journal of Highway and Transport</div><img src='images/CJHT_1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Compatibility Evaluation of Pretreated Crumb Rubber-Asphalt System under Supercritical Fluid Induction](https://zgglxb.chd.edu.cn/CN/10.19721/j.cnki.1001-7372.2025.08.014)
-
-**Jin Li**, Jiayu Wang, Feipeng Xiao*
-
-**Topic**
-- Infrastructure Sustainable Construction
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Transportation Research Record</div><img src='images/TRR_1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Enhanced Temperature Gradient Prediction for Asphalt Layers in Full-Depth Asphalt and Composite Pavement Using Machine Learning Techniques](https://journals.sagepub.com/doi/10.1177/03611981251341325)
-
-**Jin Li**, Pablo Orosa, Cheng Zhang, Oscar Andres Moncada, Seonghwan Cho*, Bongsuk Park, John E. Haddock
-
-**Topic**
-- Infrastructure Intelligent Operation
-</div>
-</div>
-
-**2024**
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Resources, Conservation and Recycling</div><img src='images/RCR1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Prospective LCA of valorizing ELTs in asphalt mixtures with emerging pretreatment technologies of crumb rubber](https://www.sciencedirect.com/science/article/pii/S092134492400421X)
-
-**Jin Li**, Joao Santos*, Andrea Vargas-Farias, Daniel Castro-Fresno, Feipeng Xiao**
-
-**Topic**
-- Infrastructure Sustainable Construction
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Int. J. Transp. Sci. Technol.</div><img src='images/IJTST1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Machine learning-based climate zoning and asphalt selection for pavement infrastructure under changing climate: A focused study of Ningxia, China](https://www.sciencedirect.com/science/article/pii/S2046043024001229)
-
-Feipeng Xiao, Zhitao Zhang, Zichao Wu, Wentao He*, **Jin Li****
-
-**Topic**
-- Infrastructure Adaptive Renewal
-</div>
-</div>
 
 <span class='anchor' id='-conference-presentations'></span>
 # 🗺️ Conference Presentations
