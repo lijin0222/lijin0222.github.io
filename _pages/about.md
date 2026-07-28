@@ -41,6 +41,10 @@ My research focuses on **life-cycle management of transportation infrastructure*
 # 📝 Publications
 ## 2026
 
+- *Road Materials and Pavement Design*: &nbsp;[Thermal sensitivity of Falling Weight Deflectometer deflections in full-depth asphalt pavements: a model-driven parametric analysis](https://www.tandfonline.com/doi/full/10.1080/14680629.2026.2691103).  
+  **Jin Li**, Pablo Orosa, Cheng Zhang, Mohammad Ali Notani, Seonghwan Cho\*, Bongsuk Park, John E. Haddock.  
+  **Topic:** Infrastructure Intelligent Operation.
+  
 - *Transportation Geotechnics*: &nbsp;[Mechanical performance of rigid pavement with embedded dynamic wireless power transfer technology: A simulation-based assessment](https://www.sciencedirect.com/science/article/pii/S2214391226001558).  
   Oscar A. Moncada, **Jin Li**\*, Pablo Orosa, John E. Haddock.  
   **Topic:** Infrastructure Adaptive Renewal.
