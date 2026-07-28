@@ -90,7 +90,7 @@ My research focuses on **life-cycle management of transportation infrastructure*
   **Topic:** Infrastructure Intelligent Operation.
 
 - *International Journal of Rail Transportation*: &nbsp;[Numerical and experimental investigation of reduced temperature effect on asphalt concrete waterproofing layer in high-speed railway](https://www.tandfonline.com/doi/full/10.1080/23248378.2022.2081879).  
-  Xin Xiao, **Jin Li**\*, Chenyu Wang, Degou Cai, Liangwei Lou, Yuefeng Shi, Feipeng Xiao.
+  Xin Xiao, **Jin Li**\*, Chenyu Wang, Degou Cai, Liangwei Lou, Yuefeng Shi, Feipeng Xiao.  
   **Topic:** Infrastructure Adaptive Renewal.
 
 
