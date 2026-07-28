@@ -25,7 +25,7 @@ author:
   avatar           : "images/profile_image.jpg"
   bio              : "Postdoc at PolyU (HK), PhD in Transportation at Tongji"
   location         : "Kowloon, Hong Kong"
-  employer         : "The Hong Kong Polytechnic University"
+  employer         : # "The Hong Kong Polytechnic University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=7axMkuEAAAAJ"
   email            : "jin-jl.li@polyu.edu.hk"
