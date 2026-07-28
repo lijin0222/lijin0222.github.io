@@ -83,6 +83,16 @@ My research focuses on **life-cycle management of transportation infrastructure*
   Feipeng Xiao, Zhitao Zhang, Zichao Wu, Wentao He\*, **Jin Li**\*\*.  
   **Topic:** Infrastructure Adaptive Renewal.
 
+## 2023
+
+- *Progress in Organic Coatings*: &nbsp;[Data fusion of ultraviolet-visible and mid-infrared spectra for rapid performance inspection of paving asphalt binders](https://www.sciencedirect.com/science/article/abs/pii/S0300944023002552).  
+  **Jin Li**, Xiangdao Hou, Serji N. Amirkhanian， Feipeng Xiao\*.  
+  **Topic:** Infrastructure Intelligent Operation.
+
+- *International Journal of Rail Transportation*: &nbsp;[Numerical and experimental investigation of reduced temperature effect on asphalt concrete waterproofing layer in high-speed railway](https://www.tandfonline.com/doi/full/10.1080/23248378.2022.2081879).  
+  Xin Xiao, **Jin Li**\*, Chenyu Wang, Degou Cai, Liangwei Lou, Yuefeng Shi, Feipeng Xiao.
+  **Topic:** Infrastructure Adaptive Renewal.
+
 
 <span class='anchor' id='-conference-presentations'></span>
 # 🗺️ Conference Presentations
