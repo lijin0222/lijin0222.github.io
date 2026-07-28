@@ -29,17 +29,12 @@ My research focuses on **life-cycle management of transportation infrastructure*
 
 <span class='anchor' id='-news'></span>
 # 🔥 News
-- *2026.06*: &nbsp; New paper accepted by [Road Materials and Pavement Design](https://www.tandfonline.com/doi/full/10.1080/14680629.2026.2691103).
-- *2026.04*: &nbsp; New paper accepted by [Transportation Geotechnics](https://www.sciencedirect.com/science/article/pii/S2214391226001558).
 - *2026.03*: &nbsp; Selected as a Handling Editor for [Transportation Research Record](https://journals.sagepub.com/home/trr).
-- *2026.02*: &nbsp; New paper accepted by [International Journal of Pavement Engineering](https://www.tandfonline.com/doi/full/10.1080/10298436.2026.2634956).
 - *2026.01*: &nbsp; New paper accepted by [Transportation Research Part D: Transport and Environment](https://www.sciencedirect.com/science/article/abs/pii/S1361920926000015).
-- *2025.09*: &nbsp; New paper accepted by [Energy & Fuels](https://pubs.acs.org/doi/10.1021/acs.energyfuels.5c04177).
 - *2025.08*: &nbsp; New paper accepted by [Computer-Aided Civil and Infrastructure Engineering](https://onlinelibrary.wiley.com/doi/10.1111/mice.70040).
 - *2025.04*: &nbsp; New paper accepted by [Transportation Research Record](https://journals.sagepub.com/doi/10.1177/03611981251341325).
 - *2025.01*: &nbsp; Selected as a Junior Editorial Board Member for [Journal of Materials Informatics](https://mp.weixin.qq.com/s/80_52X0QWdRHmqiJg0lPMA). 
 - *2025.01*: &nbsp; Selected as a Founding Youth Editorial Board Member for [Carbon Footprints](https://mp.weixin.qq.com/s/5ZLXq3RJk2tzreAHeXBGeQ).
-- *2024.09*: &nbsp; New paper accepted by [China Journal of Highway and Transport](https://zgglxb.chd.edu.cn/EN/home).
 - *2024.08*: &nbsp; New paper accepted by [Resources, Conservation and Recycling](https://linkinghub.elsevier.com/retrieve/pii/S092134492400421X).
 
 <span class='anchor' id='-publications'></span>
@@ -68,10 +63,6 @@ My research focuses on **life-cycle management of transportation infrastructure*
 - *Computer-Aided Civil and Infrastructure Engineering*: &nbsp;[A streamlined approach for probabilistic pavement life-cycle performance prediction via physics-informed neural networks](https://onlinelibrary.wiley.com/doi/10.1111/mice.70040).  
   **Jin Li**, Wentao He, Huailei Cheng, Haopeng Wang\*.  
   **Topic:** Infrastructure Intelligent Operation.
-
-- *China Journal of Highway and Transport*: &nbsp;[Compatibility Evaluation of Pretreated Crumb Rubber-Asphalt System under Supercritical Fluid Induction](https://zgglxb.chd.edu.cn/CN/10.19721/j.cnki.1001-7372.2025.08.014).  
-  **Jin Li**, Jiayu Wang, Feipeng Xiao\*.  
-  **Topic:** Infrastructure Sustainable Construction.
 
 - *Transportation Research Record*: &nbsp;[Enhanced Temperature Gradient Prediction for Asphalt Layers in Full-Depth Asphalt and Composite Pavement Using Machine Learning Techniques](https://journals.sagepub.com/doi/10.1177/03611981251341325).  
   **Jin Li**, Pablo Orosa, Cheng Zhang, Oscar Andres Moncada, Seonghwan Cho\*, Bongsuk Park, John E. Haddock.  
