@@ -93,7 +93,7 @@ My research focuses on **life-cycle management of transportation infrastructure*
 <span class='anchor' id='-conference-presentations'></span>
 # 🗺️ Conference Presentations
 ## 2026
-- *2026.03*, Improved Temperature Correction Methodology for FWD Deflections in Full-Depth Asphalt Pavements, [AAPT 2026 Annual Meeting](https://www.asphalttechnology.org/site_page.cfm?pk_association_webpage_menu=9168), Boston, Massachusetts, USA.
+- *2026.03*, Improved Temperature Correction Methodology for FWD Deflections in Full-Depth Asphalt Pavements, [Association of Asphalt Paving Technologists (AAPT) 2026 Annual Meeting](https://www.asphalttechnology.org/site_page.cfm?pk_association_webpage_menu=9168), Boston, Massachusetts, USA.
 
 ## 2025
 - *2025.11*, Simulation-Based Mechanical Assessment of Rigid Pavement with Embedded Dynamic Wireless Power Transfer Technology, [ASPIRE Annual Meeting & Technology Showcase](https://aspire.usu.edu/25-annual-meeting/), Logan, Utah, USA.
