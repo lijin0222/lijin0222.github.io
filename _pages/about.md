@@ -40,7 +40,6 @@ My research focuses on **life-cycle management of transportation infrastructure*
 <span class='anchor' id='-publications'></span>
 # 📝 Publications
 ## 2026
-
 - *Road Materials and Pavement Design*: &nbsp;[Thermal sensitivity of Falling Weight Deflectometer deflections in full-depth asphalt pavements: a model-driven parametric analysis](https://www.tandfonline.com/doi/full/10.1080/14680629.2026.2691103).  
   **Jin Li**, Pablo Orosa, Cheng Zhang, Mohammad Ali Notani, Seonghwan Cho\*, Bongsuk Park, John E. Haddock.  
   **Topic:** Infrastructure Intelligent Operation.
@@ -59,7 +58,6 @@ My research focuses on **life-cycle management of transportation infrastructure*
 
 
 ## 2025
-
 - *Energy & Fuels*: &nbsp;[Improved Asphalt Binder Performance Grading Using Surrogate FTIR Data and Gradient Boosting](https://pubs.acs.org/doi/10.1021/acs.energyfuels.5c04177).  
   Xiaoyan Wang, Jie Ma, Wentao He, **Jin Li**\*, Zeyu Ma.  
   **Topic:** Infrastructure Intelligent Operation.
@@ -74,7 +72,6 @@ My research focuses on **life-cycle management of transportation infrastructure*
 
 
 ## 2024
-
 - *Resources, Conservation and Recycling*: &nbsp;[Prospective LCA of valorizing ELTs in asphalt mixtures with emerging pretreatment technologies of crumb rubber](https://www.sciencedirect.com/science/article/pii/S092134492400421X).  
   **Jin Li**, Joao Santos\*, Andrea Vargas-Farias, Daniel Castro-Fresno, Feipeng Xiao\*\*.  
   **Topic:** Infrastructure Sustainable Construction.
@@ -84,7 +81,6 @@ My research focuses on **life-cycle management of transportation infrastructure*
   **Topic:** Infrastructure Adaptive Renewal.
 
 ## 2023
-
 - *Progress in Organic Coatings*: &nbsp;[Data fusion of ultraviolet-visible and mid-infrared spectra for rapid performance inspection of paving asphalt binders](https://www.sciencedirect.com/science/article/abs/pii/S0300944023002552).  
   **Jin Li**, Xiangdao Hou, Serji N. Amirkhanian， Feipeng Xiao\*.  
   **Topic:** Infrastructure Intelligent Operation.
@@ -96,6 +92,9 @@ My research focuses on **life-cycle management of transportation infrastructure*
 
 <span class='anchor' id='-conference-presentations'></span>
 # 🗺️ Conference Presentations
+## 2026
+- *2026.03*, Improved Temperature Correction Methodology for FWD Deflections in Full-Depth Asphalt Pavements, [AAPT 2026 Annual Meeting](https://www.asphalttechnology.org/site_page.cfm?pk_association_webpage_menu=9168), Boston, Massachusetts, USA.
+
 ## 2025
 - *2025.11*, Simulation-Based Mechanical Assessment of Rigid Pavement with Embedded Dynamic Wireless Power Transfer Technology, [ASPIRE Annual Meeting & Technology Showcase](https://aspire.usu.edu/25-annual-meeting/), Logan, Utah, USA.
 - *2025.11*, Compatibilization and decarbonization of asphalt-rubber system induced by supercritical fluid, [14th Youth Forum on Road and Airport Engineering Research](https://mp.weixin.qq.com/s/Y_LSmyHsd3AP5YVObhKClQ), Wuhan, Hubei, China.
@@ -136,6 +135,5 @@ My research focuses on **life-cycle management of transportation infrastructure*
 - **Editorial Board**: [Transportation Research Record](https://journals.sagepub.com/editorial-board/trr) (Handling Editor)
 - **Journal Reviewer (Selected)**: Transportation Research Record; Computer-Aided Civil and Infrastructure Engineering; Journal of Computing in Civil Engineering; Applied Energy; Journal of Transportation Engineering, Part B: Pavements; Resources, Conservation and Recycling
 - **Membership**: [International Society of Industrial Ecology](https://www.is4ie.org) (Member); [American Society of Civil Engineers](https://www.asce.org) (Member); [Shanghai Society of Traffic Engineering](https://www.shjtgcxh.com/odbc/b3249/l1.asp?cny=404)
-- **Mentor**: [Oscar Andres Moncada](https://scholar.google.com/citations?user=-WmbOlIAAAAJ&hl=en&oi=ao) (PhD student at Purdue University); [Wentao He](https://www.scopus.com/authid/detail.uri?authorId=57982903100), [Xin Xiao](https://scholar.google.com/citations?user=9DyFXg4AAAAJ&hl=en&oi=sra) & Zizhuang Yang (PhD students at Tongji University) [Abdulrahman Badughaish](https://scholar.google.com/citations?user=5YGBS6IAAAAJ&hl=en), Linjie Zhu & Chenyu Wang (Master students at Tongji University)
 
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=Tl4CJYl36uADoDR8ueeRZdOncchxafXv9m11Y5f-1kc'></script>
