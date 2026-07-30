@@ -89,6 +89,15 @@ My research focuses on **life-cycle management of transportation infrastructure*
   Xin Xiao, **Jin Li**\*, Chenyu Wang, Degou Cai, Liangwei Lou, Yuefeng Shi, Feipeng Xiao.  
   **Topic:** Infrastructure Adaptive Renewal.
 
+## 2022
+- *Measurement*: &nbsp;[Determination of SARA fractions in asphalts by mid-infrared spectroscopy and multivariate calibration](https://www.sciencedirect.com/science/article/abs/pii/S0263224122005978).  
+  **Jin Li**, Xinyuan Xing, Xiangdao Hou, Tao Wang, Jiayu Wang， Feipeng Xiao\*.  
+  **Topic:** Infrastructure Intelligent Operation.
+
+## 2019
+- *Journal of Cleaner Production*: &nbsp;[Life cycle assessment and life cycle cost analysis of recycled solid waste materials in highway pavement: A review](https://www.sciencedirect.com/science/article/abs/pii/S0959652619320141).  
+  **Jin Li**， Feipeng Xiao\*, Lanfang Zhang, Serji N. Amirkhanian.  
+  **Topic:** Infrastructure Sustainable Construction.
 
 <span class='anchor' id='-conference-presentations'></span>
 # 🗺️ Conference Presentations
