@@ -144,5 +144,3 @@ My research focuses on **life-cycle management of transportation infrastructure*
 - **Editorial Board**: [Transportation Research Record](https://journals.sagepub.com/editorial-board/trr) (Handling Editor)
 - **Journal Reviewer (Selected)**: Transportation Research Record; Computer-Aided Civil and Infrastructure Engineering; Journal of Computing in Civil Engineering; Applied Energy; Journal of Transportation Engineering, Part B: Pavements; Resources, Conservation and Recycling
 - **Membership**: [International Society of Industrial Ecology](https://www.is4ie.org) (Member); [American Society of Civil Engineers](https://www.asce.org) (Member); [Shanghai Society of Traffic Engineering](https://www.shjtgcxh.com/odbc/b3249/l1.asp?cny=404)
-
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=Tl4CJYl36uADoDR8ueeRZdOncchxafXv9m11Y5f-1kc'></script>
