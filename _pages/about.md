@@ -42,62 +42,49 @@ My research focuses on **life-cycle management of transportation infrastructure*
 ## 2026
 - *Road Materials and Pavement Design*: &nbsp;[Thermal sensitivity of Falling Weight Deflectometer deflections in full-depth asphalt pavements: a model-driven parametric analysis](https://www.tandfonline.com/doi/full/10.1080/14680629.2026.2691103).  
   **Jin Li**, Pablo Orosa, Cheng Zhang, Mohammad Ali Notani, Seonghwan Cho\*, Bongsuk Park, John E. Haddock.  
-  **Topic:** Infrastructure Intelligent Operation.
   
 - *Transportation Geotechnics*: &nbsp;[Mechanical performance of rigid pavement with embedded dynamic wireless power transfer technology: A simulation-based assessment](https://www.sciencedirect.com/science/article/pii/S2214391226001558).  
   Oscar A. Moncada, **Jin Li**\*, Pablo Orosa, John E. Haddock.  
-  **Topic:** Infrastructure Adaptive Renewal.
 
 - *International Journal of Pavement Engineering*: &nbsp;[A new temperature correction methodology for FWD deflections on full-depth asphalt pavements](https://www.tandfonline.com/doi/full/10.1080/10298436.2026.2634956).  
   **Jin Li**, Pablo Orosa, Cheng Zhang, Seonghwan Cho\*, Bongsuk Park, John E. Haddock.  
-  **Topic:** Infrastructure Intelligent Operation.
 
 - *Transportation Research Part D: Transport and Environment*: &nbsp;[Quantifying the counteracting impacts of climate change on large-scale pavement infrastructure serviceability](https://www.sciencedirect.com/science/article/abs/pii/S1361920926000015).  
   **Jin Li**, Wentao He, He Zhang, Hao Shi, Huailei Cheng\*, Lijun Sun.  
-  **Topic:** Infrastructure Adaptive Renewal.
 
 
 ## 2025
 - *Energy & Fuels*: &nbsp;[Improved Asphalt Binder Performance Grading Using Surrogate FTIR Data and Gradient Boosting](https://pubs.acs.org/doi/10.1021/acs.energyfuels.5c04177).  
   Xiaoyan Wang, Jie Ma, Wentao He, **Jin Li**\*, Zeyu Ma.  
-  **Topic:** Infrastructure Intelligent Operation.
 
 - *Computer-Aided Civil and Infrastructure Engineering*: &nbsp;[A streamlined approach for probabilistic pavement life-cycle performance prediction via physics-informed neural networks](https://onlinelibrary.wiley.com/doi/10.1111/mice.70040).  
   **Jin Li**, Wentao He, Huailei Cheng, Haopeng Wang\*.  
-  **Topic:** Infrastructure Intelligent Operation.
 
 - *Transportation Research Record*: &nbsp;[Enhanced Temperature Gradient Prediction for Asphalt Layers in Full-Depth Asphalt and Composite Pavement Using Machine Learning Techniques](https://journals.sagepub.com/doi/10.1177/03611981251341325).  
   **Jin Li**, Pablo Orosa, Cheng Zhang, Oscar Andres Moncada, Seonghwan Cho\*, Bongsuk Park, John E. Haddock.  
-  **Topic:** Infrastructure Intelligent Operation.
 
 
 ## 2024
 - *Resources, Conservation and Recycling*: &nbsp;[Prospective LCA of valorizing ELTs in asphalt mixtures with emerging pretreatment technologies of crumb rubber](https://www.sciencedirect.com/science/article/pii/S092134492400421X).  
   **Jin Li**, Joao Santos\*, Andrea Vargas-Farias, Daniel Castro-Fresno, Feipeng Xiao\*\*.  
-  **Topic:** Infrastructure Sustainable Construction.
 
 - *International Journal of Transportation Science and Technology*: &nbsp;[Machine learning-based climate zoning and asphalt selection for pavement infrastructure under changing climate: A focused study of Ningxia, China](https://www.sciencedirect.com/science/article/pii/S2046043024001229).  
   Feipeng Xiao, Zhitao Zhang, Zichao Wu, Wentao He\*, **Jin Li**\*\*.  
-  **Topic:** Infrastructure Adaptive Renewal.
 
 ## 2023
 - *Progress in Organic Coatings*: &nbsp;[Data fusion of ultraviolet-visible and mid-infrared spectra for rapid performance inspection of paving asphalt binders](https://www.sciencedirect.com/science/article/abs/pii/S0300944023002552).  
   **Jin Li**, Xiangdao Hou, Serji N. Amirkhanian, Feipeng Xiao\*.  
-  **Topic:** Infrastructure Intelligent Operation.
 
 - *International Journal of Rail Transportation*: &nbsp;[Numerical and experimental investigation of reduced temperature effect on asphalt concrete waterproofing layer in high-speed railway](https://www.tandfonline.com/doi/full/10.1080/23248378.2022.2081879).  
   Xin Xiao, **Jin Li**\*, Chenyu Wang, Degou Cai, Liangwei Lou, Yuefeng Shi, Feipeng Xiao.  
-  **Topic:** Infrastructure Adaptive Renewal.
 
 ## 2022
 - *Measurement*: &nbsp;[Determination of SARA fractions in asphalts by mid-infrared spectroscopy and multivariate calibration](https://www.sciencedirect.com/science/article/abs/pii/S0263224122005978).  
   **Jin Li**, Xinyuan Xing, Xiangdao Hou, Tao Wang, Jiayu Wang, Feipeng Xiao\*.  
-  **Topic:** Infrastructure Intelligent Operation.
 
 ## 2019
 - *Journal of Cleaner Production*: &nbsp;[Life cycle assessment and life cycle cost analysis of recycled solid waste materials in highway pavement: A review](https://www.sciencedirect.com/science/article/abs/pii/S0959652619320141).  
   **Jin Li**, Feipeng Xiao\*, Lanfang Zhang, Serji N. Amirkhanian.  
-  **Topic:** Infrastructure Sustainable Construction.
 
 <span class='anchor' id='-conference-presentations'></span>
 # 🗺️ Conference Presentations
