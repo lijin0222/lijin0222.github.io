@@ -29,6 +29,7 @@ My research focuses on **life-cycle management of transportation infrastructure*
 
 <span class='anchor' id='-news'></span>
 # 🔥 News
+- *2026.08*: &nbsp; New paper accepted by [Nature Communications](https://www.nature.com/ncomms/).
 - *2026.03*: &nbsp; Selected as a Handling Editor for [Transportation Research Record](https://journals.sagepub.com/home/trr).
 - *2026.01*: &nbsp; New paper accepted by [Transportation Research Part D: Transport and Environment](https://www.sciencedirect.com/science/article/abs/pii/S1361920926000015).
 - *2025.08*: &nbsp; New paper accepted by [Computer-Aided Civil and Infrastructure Engineering](https://onlinelibrary.wiley.com/doi/10.1111/mice.70040).
