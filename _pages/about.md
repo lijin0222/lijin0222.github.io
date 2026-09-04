@@ -42,6 +42,9 @@ My research focuses on **life-cycle management of transportation infrastructure*
 <span class='anchor' id='-publications'></span>
 # 📝 Publications
 ## 2026
+- *Transportation Research Part D: Transport and Environment*: &nbsp;[Unraveling divergence in pavement LCA tools through attribution analysis](https://www.sciencedirect.com/science/article/pii/S1361920926003998).  
+  **Jin Li**, Wei Sheng, Yuhong Wang\*.  
+
 - *Road Materials and Pavement Design*: &nbsp;[Thermal sensitivity of Falling Weight Deflectometer deflections in full-depth asphalt pavements: a model-driven parametric analysis](https://www.tandfonline.com/doi/full/10.1080/14680629.2026.2691103).  
   **Jin Li**, Pablo Orosa, Cheng Zhang, Mohammad Ali Notani, Seonghwan Cho\*, Bongsuk Park, John E. Haddock.  
   
