@@ -23,7 +23,7 @@ I am currently a postdoctoral fellow at the [Department of Civil and Environment
 
 I obtained both my PhD and Bachelor's degrees in Transportation Engineering from [School of Transportation](https://tjjt.tongji.edu.cn/English_Home/HOME.htm) at [Tongji University](https://en.tongji.edu.cn) in Shanghai, China. I joined the [Department of Civil Engineering and Management](https://www.utwente.nl/en/et/cem/) at [University of Twente](https://www.utwente.nl/en/) in Enschede, the Netherlands as a visiting PhD student for one year.
 
-My research focuses on **life-cycle management of transportation infrastructure**, with emphasis on **sustainable construction**, **intelligent operation**, and **adaptive renewal**.
+My research focuses on **sustainability-oriented life-cycle management of transportation infrastructure**, with emphasis on **sustainable construction**, **intelligent operation**, and **adaptive renewal**.
 
 (I am running a WeChat public account where I share academic opportunities and research updates in roadway and airport pavement engineering; if you are interested, please click the WeChat icon on the left to follow.)
 
