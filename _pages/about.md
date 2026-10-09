@@ -279,3 +279,8 @@ My research focuses on **sustainability-oriented life-cycle management of transp
 - **Membership**: [International Society of Industrial Ecology](https://www.is4ie.org) (Member); [American Society of Civil Engineers](https://www.asce.org) (Member); [Shanghai Society of Traffic Engineering](https://www.shjtgcxh.com/odbc/b3249/l1.asp?cny=404)
 
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=080808&w=350&t=tt&d=Tl4CJYl36uADoDR8ueeRZdOncchxafXv9m11Y5f-1kc&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
+
+
+<p style="font-size: 0.85em; color: #888; margin-top: 30px;">
+  Last updated: Oct 2026
+</p>
