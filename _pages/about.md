@@ -1,9 +1,14 @@
 ---
 permalink: /
 title: "Jin Li"
+description: >-
+  Jin Li is a postdoctoral fellow at The Hong Kong Polytechnic
+  University, specializing in sustainable transportation
+  infrastructure, pavement engineering, life-cycle assessment,
+  climate resilience, and artificial intelligence.
 excerpt: "Postdoctoral Fellow in Pavement Engineering"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
