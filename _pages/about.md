@@ -52,85 +52,196 @@ My research focuses on **sustainability-oriented life-cycle management of transp
 </details>
 
 
+
 <span class='anchor' id='-publications'></span>
 # 📝 Publications
-## 2026
+
+{% assign current_year = site.time | date: "%Y" | plus: 0 %}
+{% assign cutoff_year = current_year | minus: 2 %}
+
+{% assign pub_year = 2026 %}
+{% capture pub_content %}
 - *Transportation Research Part D: Transport and Environment*: &nbsp;[Unraveling divergence in pavement LCA tools through attribution analysis](https://www.sciencedirect.com/science/article/pii/S1361920926003998).  
-  **Jin Li**, Wei Sheng, Yuhong Wang\*.  
+  **Jin Li**, Wei Sheng, Yuhong Wang\*.
 
 - *Road Materials and Pavement Design*: &nbsp;[Thermal sensitivity of Falling Weight Deflectometer deflections in full-depth asphalt pavements: a model-driven parametric analysis](https://www.tandfonline.com/doi/full/10.1080/14680629.2026.2691103).  
-  **Jin Li**, Pablo Orosa, Cheng Zhang, Mohammad Ali Notani, Seonghwan Cho\*, Bongsuk Park, John E. Haddock.  
-  
+  **Jin Li**, Pablo Orosa, Cheng Zhang, Mohammad Ali Notani, Seonghwan Cho\*, Bongsuk Park, John E. Haddock.
+
 - *Transportation Geotechnics*: &nbsp;[Mechanical performance of rigid pavement with embedded dynamic wireless power transfer technology: A simulation-based assessment](https://www.sciencedirect.com/science/article/pii/S2214391226001558).  
-  Oscar A. Moncada, **Jin Li**\*, Pablo Orosa, John E. Haddock.  
+  Oscar A. Moncada, **Jin Li**\*, Pablo Orosa, John E. Haddock.
 
 - *International Journal of Pavement Engineering*: &nbsp;[A new temperature correction methodology for FWD deflections on full-depth asphalt pavements](https://www.tandfonline.com/doi/full/10.1080/10298436.2026.2634956).  
-  **Jin Li**, Pablo Orosa, Cheng Zhang, Seonghwan Cho\*, Bongsuk Park, John E. Haddock.  
+  **Jin Li**, Pablo Orosa, Cheng Zhang, Seonghwan Cho\*, Bongsuk Park, John E. Haddock.
 
 - *Transportation Research Part D: Transport and Environment*: &nbsp;[Quantifying the counteracting impacts of climate change on large-scale pavement infrastructure serviceability](https://www.sciencedirect.com/science/article/abs/pii/S1361920926000015).  
-  **Jin Li**, Wentao He, He Zhang, Hao Shi, Huailei Cheng\*, Lijun Sun.  
+  **Jin Li**, Wentao He, He Zhang, Hao Shi, Huailei Cheng\*, Lijun Sun.
+{% endcapture %}
+{% if pub_year < cutoff_year %}
+<details class="year-collapse">
+<summary>{{ pub_year }}</summary>
+{{ pub_content | markdownify }}
+</details>
+{% else %}
+<h2>{{ pub_year }}</h2>
+{{ pub_content | markdownify }}
+{% endif %}
 
 
-## 2025
+{% assign pub_year = 2025 %}
+{% capture pub_content %}
 - *Energy & Fuels*: &nbsp;[Improved Asphalt Binder Performance Grading Using Surrogate FTIR Data and Gradient Boosting](https://pubs.acs.org/doi/10.1021/acs.energyfuels.5c04177).  
-  Xiaoyan Wang, Jie Ma, Wentao He, **Jin Li**\*, Zeyu Ma.  
+  Xiaoyan Wang, Jie Ma, Wentao He, **Jin Li**\*, Zeyu Ma.
 
 - *Computer-Aided Civil and Infrastructure Engineering*: &nbsp;[A streamlined approach for probabilistic pavement life-cycle performance prediction via physics-informed neural networks](https://onlinelibrary.wiley.com/doi/10.1111/mice.70040).  
-  **Jin Li**, Wentao He, Huailei Cheng, Haopeng Wang\*.  
+  **Jin Li**, Wentao He, Huailei Cheng, Haopeng Wang\*.
 
 - *Transportation Research Record*: &nbsp;[Enhanced Temperature Gradient Prediction for Asphalt Layers in Full-Depth Asphalt and Composite Pavement Using Machine Learning Techniques](https://journals.sagepub.com/doi/10.1177/03611981251341325).  
-  **Jin Li**, Pablo Orosa, Cheng Zhang, Oscar Andres Moncada, Seonghwan Cho\*, Bongsuk Park, John E. Haddock.  
+  **Jin Li**, Pablo Orosa, Cheng Zhang, Oscar Andres Moncada, Seonghwan Cho\*, Bongsuk Park, John E. Haddock.
+{% endcapture %}
+{% if pub_year < cutoff_year %}
+<details class="year-collapse">
+<summary>{{ pub_year }}</summary>
+{{ pub_content | markdownify }}
+</details>
+{% else %}
+<h2>{{ pub_year }}</h2>
+{{ pub_content | markdownify }}
+{% endif %}
 
 
-## 2024
+{% assign pub_year = 2024 %}
+{% capture pub_content %}
 - *Resources, Conservation and Recycling*: &nbsp;[Prospective LCA of valorizing ELTs in asphalt mixtures with emerging pretreatment technologies of crumb rubber](https://www.sciencedirect.com/science/article/pii/S092134492400421X).  
-  **Jin Li**, Joao Santos\*, Andrea Vargas-Farias, Daniel Castro-Fresno, Feipeng Xiao\*\*.  
+  **Jin Li**, Joao Santos\*, Andrea Vargas-Farias, Daniel Castro-Fresno, Feipeng Xiao\*\*.
 
 - *International Journal of Transportation Science and Technology*: &nbsp;[Machine learning-based climate zoning and asphalt selection for pavement infrastructure under changing climate: A focused study of Ningxia, China](https://www.sciencedirect.com/science/article/pii/S2046043024001229).  
-  Feipeng Xiao, Zhitao Zhang, Zichao Wu, Wentao He\*, **Jin Li**\*\*.  
+  Feipeng Xiao, Zhitao Zhang, Zichao Wu, Wentao He\*, **Jin Li**\*\*.
+{% endcapture %}
+{% if pub_year < cutoff_year %}
+<details class="year-collapse">
+<summary>{{ pub_year }}</summary>
+{{ pub_content | markdownify }}
+</details>
+{% else %}
+<h2>{{ pub_year }}</h2>
+{{ pub_content | markdownify }}
+{% endif %}
 
-<details markdown="1">
-<summary><strong>2023</strong></summary>
 
+{% assign pub_year = 2023 %}
+{% capture pub_content %}
 - *Progress in Organic Coatings*: &nbsp;[Data fusion of ultraviolet-visible and mid-infrared spectra for rapid performance inspection of paving asphalt binders](https://www.sciencedirect.com/science/article/abs/pii/S0300944023002552).  
   **Jin Li**, Xiangdao Hou, Serji N. Amirkhanian, Feipeng Xiao\*.
 
 - *International Journal of Rail Transportation*: &nbsp;[Numerical and experimental investigation of reduced temperature effect on asphalt concrete waterproofing layer in high-speed railway](https://www.tandfonline.com/doi/full/10.1080/23248378.2022.2081879).  
   Xin Xiao, **Jin Li**\*, Chenyu Wang, Degou Cai, Liangwei Lou, Yuefeng Shi, Feipeng Xiao.
-
+{% endcapture %}
+{% if pub_year < cutoff_year %}
+<details class="year-collapse">
+<summary>{{ pub_year }}</summary>
+{{ pub_content | markdownify }}
 </details>
+{% else %}
+<h2>{{ pub_year }}</h2>
+{{ pub_content | markdownify }}
+{% endif %}
 
-<details markdown="1">
-<summary><strong>2022</strong></summary>
 
+{% assign pub_year = 2022 %}
+{% capture pub_content %}
 - *Measurement*: &nbsp;[Determination of SARA fractions in asphalts by mid-infrared spectroscopy and multivariate calibration](https://www.sciencedirect.com/science/article/abs/pii/S0263224122005978).  
   **Jin Li**, Xinyuan Xing, Xiangdao Hou, Tao Wang, Jiayu Wang, Feipeng Xiao\*.
-
+{% endcapture %}
+{% if pub_year < cutoff_year %}
+<details class="year-collapse">
+<summary>{{ pub_year }}</summary>
+{{ pub_content | markdownify }}
 </details>
+{% else %}
+<h2>{{ pub_year }}</h2>
+{{ pub_content | markdownify }}
+{% endif %}
 
-<details markdown="1">
-<summary><strong>2019</strong></summary>
 
+{% assign pub_year = 2019 %}
+{% capture pub_content %}
 - *Journal of Cleaner Production*: &nbsp;[Life cycle assessment and life cycle cost analysis of recycled solid waste materials in highway pavement: A review](https://www.sciencedirect.com/science/article/abs/pii/S0959652619320141).  
   **Jin Li**, Feipeng Xiao\*, Lanfang Zhang, Serji N. Amirkhanian.
-
+{% endcapture %}
+{% if pub_year < cutoff_year %}
+<details class="year-collapse">
+<summary>{{ pub_year }}</summary>
+{{ pub_content | markdownify }}
 </details>
+{% else %}
+<h2>{{ pub_year }}</h2>
+{{ pub_content | markdownify }}
+{% endif %}
+
+
 
 <span class='anchor' id='-conference-presentations'></span>
 # 🗺️ Conference Presentations
-## 2026
+
+{% assign current_year = site.time | date: "%Y" | plus: 0 %}
+{% assign cutoff_year = current_year | minus: 2 %}
+
+{% assign conf_year = 2026 %}
+{% capture conf_content %}
 - *2026.03*, Improved Temperature Correction Methodology for FWD Deflections in Full-Depth Asphalt Pavements, [Association of Asphalt Paving Technologists (AAPT) 2026 Annual Meeting](https://www.asphalttechnology.org/site_page.cfm?pk_association_webpage_menu=9168), Boston, Massachusetts, USA.
+{% endcapture %}
+{% if conf_year < cutoff_year %}
+<details class="year-collapse">
+<summary>{{ conf_year }}</summary>
+{{ conf_content | markdownify }}
+</details>
+{% else %}
+<h2>{{ conf_year }}</h2>
+{{ conf_content | markdownify }}
+{% endif %}
 
-## 2025
+
+{% assign conf_year = 2025 %}
+{% capture conf_content %}
 - *2025.11*, Simulation-Based Mechanical Assessment of Rigid Pavement with Embedded Dynamic Wireless Power Transfer Technology, [ASPIRE Annual Meeting & Technology Showcase](https://aspire.usu.edu/25-annual-meeting/), Logan, Utah, USA.
-- *2025.11*, Compatibilization and decarbonization of asphalt-rubber system induced by supercritical fluid, [14th Youth Forum on Road and Airport Engineering Research](https://mp.weixin.qq.com/s/Y_LSmyHsd3AP5YVObhKClQ), Wuhan, Hubei, China.
-- *2025.07*, Pavement roughness prediction with ensemble learning: Insights from the Netherlands, [3rd International Symposium on Pavement Functional Design and Management (PFDM 2025)](https://www.pfdm2025.com), Delft, the Netherlands.
-- *2025.06*, Structural Modeling and Assessment of Rigid Pavement with Embedded Dynamic Wireless Power Transfer Components, [IEEE Wireless Power Technology Conference and Expo (WPTCE 2025)](https://ieee-wptce.org), Rome, Italy.
-- *2025.01*, A Survey of Data-Driven Construction Materials Price Forecasting, [The Transportation Research Board (TRB) 104th Annual Meeting](https://trb-annual-meeting.nationalacademies.org), Washington D.C., USA.
 
-## 2024
+- *2025.11*, Compatibilization and decarbonization of asphalt-rubber system induced by supercritical fluid, [14th Youth Forum on Road and Airport Engineering Research](https://mp.weixin.qq.com/s/Y_LSmyHsd3AP5YVObhKClQ), Wuhan, Hubei, China.
+
+- *2025.07*, Pavement roughness prediction with ensemble learning: Insights from the Netherlands, [3rd International Symposium on Pavement Functional Design and Management (PFDM 2025)](https://www.pfdm2025.com), Delft, the Netherlands.
+
+- *2025.06*, Structural Modeling and Assessment of Rigid Pavement with Embedded Dynamic Wireless Power Transfer Components, [IEEE Wireless Power Technology Conference and Expo (WPTCE 2025)](https://ieee-wptce.org), Rome, Italy.
+
+- *2025.01*, A Survey of Data-Driven Construction Materials Price Forecasting, [The Transportation Research Board (TRB) 104th Annual Meeting](https://trb-annual-meeting.nationalacademies.org), Washington D.C., USA.
+{% endcapture %}
+{% if conf_year < cutoff_year %}
+<details class="year-collapse">
+<summary>{{ conf_year }}</summary>
+{{ conf_content | markdownify }}
+</details>
+{% else %}
+<h2>{{ conf_year }}</h2>
+{{ conf_content | markdownify }}
+{% endif %}
+
+
+{% assign conf_year = 2024 %}
+{% capture conf_content %}
 - *2024.09*, Enhanced Temperature Gradient Prediction for Asphalt Layers in Full-Depth Asphalt and Composite Pavement Using Machine Learning Techniques, [33rd FWD User Group (FWDUG) Meeting](http://fwdug.org), Fort Worth, Texas, USA.
+
 - *2024.03*, Bridging data gap of emerging technology with proxy: A probabilistic LCA of innovative pavement materials, [Data Science for Pavements Symposium (DSPS 2024)](https://pavementdatascience.com), McLean, Virginia, USA.
+{% endcapture %}
+{% if conf_year < cutoff_year %}
+<details class="year-collapse">
+<summary>{{ conf_year }}</summary>
+{{ conf_content | markdownify }}
+</details>
+{% else %}
+<h2>{{ conf_year }}</h2>
+{{ conf_content | markdownify }}
+{% endif %}
+
+
+
 
 <span class='anchor' id='-work-experience'></span>
 # 💻 Work Experience
