@@ -5,11 +5,22 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+
 # Site Settings
-title                    : "Jin Li"
-description              : # "Welcome to Jin Li's academic homepage"
-repository               : "lijin0222/lijin0222.github.io"
-google_scholar_stats_use_cdn : true
+title: "Jin Li"
+url: "https://lijin0222.github.io"
+baseurl: ""
+
+description: >-
+  Jin Li is a postdoctoral fellow at The Hong Kong Polytechnic
+  University. His research focuses on sustainable and intelligent
+  transportation infrastructure, pavement engineering,
+  life-cycle assessment, climate resilience,
+  and data-driven infrastructure management.
+
+repository: "lijin0222/lijin0222.github.io"
+google_scholar_stats_use_cdn: true
+
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
