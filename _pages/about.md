@@ -259,7 +259,7 @@ My research focuses on **sustainability-oriented life-cycle management of transp
 - *2020.03 - 2023.12*, Ph.D. (Supervisor: [Prof. Feipeng Xiao](https://tjjt.tongji.edu.cn/info/3027/9634.htm)), Tongji University
 - *2022.12 - 2023.11*, Visiting Ph.D. (Supervisor: [Prof. João Santos](https://people.utwente.nl/j.m.oliveiradossantos?tab=overview)), University of Twente
 - *2018.09 - 2020.02*, M.S. (Supervisor: [Prof. Feipeng Xiao](https://tjjt.tongji.edu.cn/info/3027/9634.htm)), Tongji University
-- *2014.09 - 2018.07*, B.E., Tongji University, China
+- *2014.09 - 2018.07*, B.E., Tongji University
 
 <span class='anchor' id='-honors-and-awards'></span>
 # 🏆 Honors and Awards
