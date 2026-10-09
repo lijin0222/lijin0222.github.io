@@ -38,7 +38,10 @@ My research focuses on **sustainability-oriented life-cycle management of transp
 - *2026.01*: &nbsp; New paper accepted by [Transportation Research Part D: Transport and Environment](https://www.sciencedirect.com/science/article/abs/pii/S1361920926000015).
 
 <details markdown="1">
-<summary>Show More News</summary>
+<summary>
+  <span class="news-more">Show More News</span>
+  <span class="news-less">Show Less News</span>
+</summary>
 
 - *2025.08*: &nbsp; New paper accepted by [Computer-Aided Civil and Infrastructure Engineering](https://onlinelibrary.wiley.com/doi/10.1111/mice.70040).
 - *2025.04*: &nbsp; New paper accepted by [Transportation Research Record](https://journals.sagepub.com/doi/10.1177/03611981251341325).
