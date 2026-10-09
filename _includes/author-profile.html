@@ -118,6 +118,13 @@
       {% if author.wechat %}
         <li><a href="{{ author.wechat }}" target="_blank" rel="noopener noreferrer" title="WeChat Official Account"><i class="fab fa-fw fa-weixin" aria-hidden="true"></i> WeChat</a></li>
       {% endif %}
+      {% if author.rednote %}
+        <li>
+          <a href="{{ author.rednote }}" title="RedNote / Xiaohongshu">
+            <i class="fas fa-fw fa-book-open" aria-hidden="true"></i> RedNote
+          </a>
+        </li>
+      {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
 {% endif %}
@@ -218,6 +225,11 @@
       {% endif %}
       {% if author.wechat %}
         <a href="{{ author.wechat }}" target="_blank" rel="noopener noreferrer" title="WeChat Official Account"><i class="fab fa-fw fa-weixin" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if author.rednote %}
+        <a href="{{ author.rednote }}" title="RedNote / Xiaohongshu">
+          <i class="fas fa-fw fa-book-open" aria-hidden="true"></i>
+        </a>
       {% endif %}
     </div>
   </div>
