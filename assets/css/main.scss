@@ -107,3 +107,24 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+
+/* Collapsible News section */
+details[markdown="1"] {
+  margin-top: 0.8em;
+
+  summary {
+    cursor: pointer;
+    color: #00369f;
+    font-weight: 600;
+    font-size: 0.95em;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  &[open] summary {
+    margin-bottom: 1em;
+  }
+}
