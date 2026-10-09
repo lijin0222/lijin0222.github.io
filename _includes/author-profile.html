@@ -121,7 +121,12 @@
       {% if author.rednote %}
         <li>
           <a href="{{ author.rednote }}" title="RedNote / Xiaohongshu">
-            <i class="fas fa-fw fa-book-open" aria-hidden="true"></i> RedNote
+            <img src="/images/rednote_icon.png"
+                 alt=""
+                 style="width: 1.1em; 
+                        height: 1.1em;
+                        object-fit: contain;
+                        vertical-align: -0.15em;"> RedNote
           </a>
         </li>
       {% endif %}
@@ -228,7 +233,12 @@
       {% endif %}
       {% if author.rednote %}
         <a href="{{ author.rednote }}" title="RedNote / Xiaohongshu">
-          <i class="fas fa-fw fa-book-open" aria-hidden="true"></i>
+            <img src="/images/rednote_icon.png"
+                 alt=""
+                 style="width: 1.1em; 
+                        height: 1.1em;
+                        object-fit: contain;
+                        vertical-align: -0.15em;">
         </a>
       {% endif %}
     </div>
