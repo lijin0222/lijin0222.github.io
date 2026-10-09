@@ -214,8 +214,6 @@ My research focuses on **sustainability-oriented life-cycle management of transp
 
 - *2025.11*, Compatibilization and decarbonization of asphalt-rubber system induced by supercritical fluid, [14th Youth Forum on Road and Airport Engineering Research](https://mp.weixin.qq.com/s/Y_LSmyHsd3AP5YVObhKClQ), Wuhan, Hubei, China.
 
-- *2025.07*, Pavement roughness prediction with ensemble learning: Insights from the Netherlands, [3rd International Symposium on Pavement Functional Design and Management (PFDM 2025)](https://www.pfdm2025.com), Delft, the Netherlands.
-
 - *2025.06*, Structural Modeling and Assessment of Rigid Pavement with Embedded Dynamic Wireless Power Transfer Components, [IEEE Wireless Power Technology Conference and Expo (WPTCE 2025)](https://ieee-wptce.org), Rome, Italy.
 
 - *2025.01*, A Survey of Data-Driven Construction Materials Price Forecasting, [The Transportation Research Board (TRB) 104th Annual Meeting](https://trb-annual-meeting.nationalacademies.org), Washington D.C., USA.
