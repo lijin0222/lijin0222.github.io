@@ -144,15 +144,17 @@ details[open] .news-less {
 
 
 
-/* Collapsible year sections for Publications and Conferences */
+
+/* Collapsible year sections */
 details.year-collapse {
   margin: 0.8em 0 1.2em;
 
   > summary {
     cursor: pointer;
-    font-size: 1.20em;
-    font-weight: 600;
-    padding: 0.3em 0;
+    font-size: 1.25em;
+    font-weight: bold;
+    line-height: 1.5;
+    padding: 0;
     color: inherit;
 
     &:hover {
@@ -164,3 +166,4 @@ details.year-collapse {
     margin-bottom: 0.8em;
   }
 }
+
