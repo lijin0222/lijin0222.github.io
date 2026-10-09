@@ -141,3 +141,26 @@ details[open] .news-more {
 details[open] .news-less {
   display: inline;
 }
+
+
+
+/* Collapsible year sections for Publications and Conferences */
+details.year-collapse {
+  margin: 0.8em 0 1.2em;
+
+  > summary {
+    cursor: pointer;
+    font-size: 1.35em;
+    font-weight: 600;
+    padding: 0.3em 0;
+    color: inherit;
+
+    &:hover {
+      color: #00369f;
+    }
+  }
+
+  &[open] > summary {
+    margin-bottom: 0.8em;
+  }
+}
