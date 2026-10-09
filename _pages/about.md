@@ -89,20 +89,32 @@ My research focuses on **sustainability-oriented life-cycle management of transp
 - *International Journal of Transportation Science and Technology*: &nbsp;[Machine learning-based climate zoning and asphalt selection for pavement infrastructure under changing climate: A focused study of Ningxia, China](https://www.sciencedirect.com/science/article/pii/S2046043024001229).  
   Feipeng Xiao, Zhitao Zhang, Zichao Wu, Wentao He\*, **Jin Li**\*\*.  
 
-## 2023
+<details markdown="1">
+<summary><strong>2023</strong></summary>
+
 - *Progress in Organic Coatings*: &nbsp;[Data fusion of ultraviolet-visible and mid-infrared spectra for rapid performance inspection of paving asphalt binders](https://www.sciencedirect.com/science/article/abs/pii/S0300944023002552).  
-  **Jin Li**, Xiangdao Hou, Serji N. Amirkhanian, Feipeng Xiao\*.  
+  **Jin Li**, Xiangdao Hou, Serji N. Amirkhanian, Feipeng Xiao\*.
 
 - *International Journal of Rail Transportation*: &nbsp;[Numerical and experimental investigation of reduced temperature effect on asphalt concrete waterproofing layer in high-speed railway](https://www.tandfonline.com/doi/full/10.1080/23248378.2022.2081879).  
-  Xin Xiao, **Jin Li**\*, Chenyu Wang, Degou Cai, Liangwei Lou, Yuefeng Shi, Feipeng Xiao.  
+  Xin Xiao, **Jin Li**\*, Chenyu Wang, Degou Cai, Liangwei Lou, Yuefeng Shi, Feipeng Xiao.
 
-## 2022
+</details>
+
+<details markdown="1">
+<summary><strong>2022</strong></summary>
+
 - *Measurement*: &nbsp;[Determination of SARA fractions in asphalts by mid-infrared spectroscopy and multivariate calibration](https://www.sciencedirect.com/science/article/abs/pii/S0263224122005978).  
-  **Jin Li**, Xinyuan Xing, Xiangdao Hou, Tao Wang, Jiayu Wang, Feipeng Xiao\*.  
+  **Jin Li**, Xinyuan Xing, Xiangdao Hou, Tao Wang, Jiayu Wang, Feipeng Xiao\*.
 
-## 2019
+</details>
+
+<details markdown="1">
+<summary><strong>2019</strong></summary>
+
 - *Journal of Cleaner Production*: &nbsp;[Life cycle assessment and life cycle cost analysis of recycled solid waste materials in highway pavement: A review](https://www.sciencedirect.com/science/article/abs/pii/S0959652619320141).  
-  **Jin Li**, Feipeng Xiao\*, Lanfang Zhang, Serji N. Amirkhanian.  
+  **Jin Li**, Feipeng Xiao\*, Lanfang Zhang, Serji N. Amirkhanian.
+
+</details>
 
 <span class='anchor' id='-conference-presentations'></span>
 # 🗺️ Conference Presentations
