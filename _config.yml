@@ -7,18 +7,13 @@
 
 
 # Site Settings
-title: "Jin Li"
-url: "https://lijin0222.github.io"
-baseurl: ""
+title                    : "Jin Li"
+url                      : "https://lijin0222.github.io"
+baseurl                  : ""
 
-#description: >-
-  Jin Li is a postdoctoral fellow at The Hong Kong Polytechnic
-  University. His research focuses on sustainable and intelligent
-  transportation infrastructure, pavement engineering,
-  life-cycle assessment, climate resilience,
-  and data-driven infrastructure management.
+description              : # "Welcome to Jin Li's academic homepage"
 
-repository: "lijin0222/lijin0222.github.io"
+repository               : "lijin0222/lijin0222.github.io"
 google_scholar_stats_use_cdn: true
 
 
