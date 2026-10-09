@@ -31,7 +31,7 @@ I obtained both my PhD and Bachelor's degrees in Transportation Engineering from
 My research focuses on **sustainability-oriented life-cycle management of transportation infrastructure**, with emphasis on **sustainable construction**, **intelligent operation**, and **adaptive renewal**.
 
 <span style="color: #888888;">
-(I am running WeChat and RedNote public account: **allroad**, where I share academic opportunities and research updates in roadway and airport pavement engineering; if you are interested, please click the icons on the left to follow.)
+(I am running WeChat and RedNote public account: allroad, where I share academic opportunities and research updates in roadway and airport pavement engineering; if you are interested, please click the icons on the left to follow.)
 </span>
 
 
