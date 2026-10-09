@@ -27,18 +27,27 @@ My research focuses on **sustainability-oriented life-cycle management of transp
 
 (I am running a WeChat public account where I share academic opportunities and research updates in roadway and airport pavement engineering; if you are interested, please click the WeChat icon on the left to follow.)
 
+
 <span class='anchor' id='-news'></span>
 # 🔥 News
+
 - *2026.09*: &nbsp; New paper accepted by [China Journal of Highway and Transport](https://zgglxb.chd.edu.cn/EN/home).
 - *2026.09*: &nbsp; New paper accepted by [Transportation Research Part D: Transport and Environment](https://www.sciencedirect.com/science/article/pii/S1361920926003998).
 - *2026.08*: &nbsp; New paper accepted by [Nature Communications](https://www.nature.com/ncomms/).
 - *2026.03*: &nbsp; Selected as a Handling Editor for [Transportation Research Record](https://journals.sagepub.com/home/trr).
 - *2026.01*: &nbsp; New paper accepted by [Transportation Research Part D: Transport and Environment](https://www.sciencedirect.com/science/article/abs/pii/S1361920926000015).
+
+<details markdown="1">
+<summary>Show More News</summary>
+
 - *2025.08*: &nbsp; New paper accepted by [Computer-Aided Civil and Infrastructure Engineering](https://onlinelibrary.wiley.com/doi/10.1111/mice.70040).
 - *2025.04*: &nbsp; New paper accepted by [Transportation Research Record](https://journals.sagepub.com/doi/10.1177/03611981251341325).
-- *2025.01*: &nbsp; Selected as a Junior Editorial Board Member for [Journal of Materials Informatics](https://mp.weixin.qq.com/s/80_52X0QWdRHmqiJg0lPMA). 
+- *2025.01*: &nbsp; Selected as a Junior Editorial Board Member for [Journal of Materials Informatics](https://mp.weixin.qq.com/s/80_52X0QWdRHmqiJg0lPMA).
 - *2025.01*: &nbsp; Selected as a Founding Youth Editorial Board Member for [Carbon Footprints](https://mp.weixin.qq.com/s/5ZLXq3RJk2tzreAHeXBGeQ).
 - *2024.08*: &nbsp; New paper accepted by [Resources, Conservation and Recycling](https://linkinghub.elsevier.com/retrieve/pii/S092134492400421X).
+
+</details>
+
 
 <span class='anchor' id='-publications'></span>
 # 📝 Publications
