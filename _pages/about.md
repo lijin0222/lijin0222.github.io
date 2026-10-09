@@ -51,18 +51,6 @@ My research focuses on **sustainability-oriented life-cycle management of transp
 
 </details>
 
-details .news-less {
-  display: none;
-}
-
-details[open] .news-more {
-  display: none;
-}
-
-details[open] .news-less {
-  display: inline;
-}
-
 
 <span class='anchor' id='-publications'></span>
 # 📝 Publications
