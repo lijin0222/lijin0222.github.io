@@ -44,8 +44,8 @@ My research focuses on **sustainability-oriented life-cycle management of transp
 
 <details markdown="1">
 <summary>
-  <span class="news-more">Show More News</span>
-  <span class="news-less">Show Less News</span>
+  <span class="news-more">Show more</span>
+  <span class="news-less">Show less</span>
 </summary>
 
 - *2025.08*: &nbsp; New paper accepted by [Computer-Aided Civil and Infrastructure Engineering](https://onlinelibrary.wiley.com/doi/10.1111/mice.70040).
