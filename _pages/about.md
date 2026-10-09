@@ -250,16 +250,16 @@ My research focuses on **sustainability-oriented life-cycle management of transp
 
 <span class='anchor' id='-work-experience'></span>
 # 💻 Work Experience
-- *2025.06 - Present*, Postdoctoral Fellow (Supervisor: [Prof. Yuhong Wang](https://www.polyu.edu.hk/cee/people/academic-staff/prof-yuhong-wang/?sc_lang=en)), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/), Hong Kong
-- *2024.04 - 2025.05*, Postdoctoral Research Associate (Supervisor: [Prof. John E. Haddock](https://engineering.purdue.edu/CCE/People/ptProfile?resource_id=2045)), [Purdue University](https://www.purdue.edu), the United States
-- *2024.04 - 2025.05*, Postdoctoral Research Associate (Supervisor: Dr. Seonghwan Cho), [Indiana Department of Transportation (INDOT)](https://www.in.gov/indot/), the United States
+- *2025.06 - Present*, Postdoctoral Fellow (Supervisor: [Prof. Yuhong Wang](https://www.polyu.edu.hk/cee/people/academic-staff/prof-yuhong-wang/?sc_lang=en)), The Hong Kong Polytechnic University, Hong Kong
+- *2024.04 - 2025.05*, Postdoctoral Research Associate (Supervisor: [Prof. John E. Haddock](https://engineering.purdue.edu/CCE/People/ptProfile?resource_id=2045)), Purdue University, the United States
+- *2024.04 - 2025.05*, Postdoctoral Research Associate (Supervisor: Dr. Seonghwan Cho), Indiana Department of Transportation (INDOT), the United States
 
 <span class='anchor' id='-education-background'></span>
 # 📖 Education Background
-- *2020.03 - 2023.12*, Ph.D. (Supervisor: [Prof. Feipeng Xiao](https://tjjt.tongji.edu.cn/info/3027/9634.htm)), [Tongji University](https://en.tongji.edu.cn), China
-- *2022.12 - 2023.11*, Visiting Ph.D. (Supervisor: [Prof. João Santos](https://people.utwente.nl/j.m.oliveiradossantos?tab=overview)), [University of Twente](https://www.utwente.nl/en/), the Netherlands
-- *2018.09 - 2020.02*, M.S. (Supervisor: [Prof. Feipeng Xiao](https://tjjt.tongji.edu.cn/info/3027/9634.htm)), [Tongji University](https://en.tongji.edu.cn), China
-- *2014.09 - 2018.07*, B.E., [Tongji University](https://en.tongji.edu.cn), China
+- *2020.03 - 2023.12*, Ph.D. (Supervisor: [Prof. Feipeng Xiao](https://tjjt.tongji.edu.cn/info/3027/9634.htm)), Tongji University, China
+- *2022.12 - 2023.11*, Visiting Ph.D. (Supervisor: [Prof. João Santos](https://people.utwente.nl/j.m.oliveiradossantos?tab=overview)), University of Twente, the Netherlands
+- *2018.09 - 2020.02*, M.S. (Supervisor: [Prof. Feipeng Xiao](https://tjjt.tongji.edu.cn/info/3027/9634.htm)), Tongji University, China
+- *2014.09 - 2018.07*, B.E., Tongji University, China
 
 <span class='anchor' id='-honors-and-awards'></span>
 # 🏆 Honors and Awards
