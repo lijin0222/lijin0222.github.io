@@ -64,7 +64,7 @@ My research focuses on **sustainability-oriented life-cycle management of transp
 # 📝 Publications
 
 {% assign current_year = site.time | date: "%Y" | plus: 0 %}
-{% assign cutoff_year = current_year | minus: 2 %}
+{% assign cutoff_year = current_year | minus: 0 %}
 
 {% assign pub_year = 2026 %}
 {% capture pub_content %}
@@ -191,7 +191,7 @@ My research focuses on **sustainability-oriented life-cycle management of transp
 # 🗺️ Conference Presentations
 
 {% assign current_year = site.time | date: "%Y" | plus: 0 %}
-{% assign cutoff_year = current_year | minus: 2 %}
+{% assign cutoff_year = current_year | minus: 0 %}
 
 {% assign conf_year = 2026 %}
 {% capture conf_content %}
