@@ -187,8 +187,8 @@ My research focuses on **sustainability-oriented life-cycle management of transp
 
 
 
-<span class='anchor' id='-conference-presentations'></span>
-# 🗺️ Conference Presentations
+<span class='anchor' id='-conferences'></span>
+# 🗺️ Conferences
 
 {% assign current_year = site.time | date: "%Y" | plus: 0 %}
 {% assign cutoff_year = current_year | minus: 0 %}
@@ -254,8 +254,8 @@ My research focuses on **sustainability-oriented life-cycle management of transp
 - *2024.04 - 2025.05*, Postdoctoral Research Associate (Supervisor: [Prof. John E. Haddock](https://engineering.purdue.edu/CCE/People/ptProfile?resource_id=2045)), Purdue University
 - *2024.04 - 2025.05*, Postdoctoral Research Associate (Supervisor: Dr. Seonghwan Cho), Indiana Department of Transportation (INDOT)
 
-<span class='anchor' id='-education-background'></span>
-# 📖 Education Background
+<span class='anchor' id='-education'></span>
+# 📖 Education
 - *2020.03 - 2023.12*, Ph.D. (Supervisor: [Prof. Feipeng Xiao](https://tjjt.tongji.edu.cn/info/3027/9634.htm)), Tongji University
 - *2022.12 - 2023.11*, Visiting Ph.D. (Supervisor: [Prof. João Santos](https://people.utwente.nl/j.m.oliveiradossantos?tab=overview)), University of Twente
 - *2018.09 - 2020.02*, M.S. (Supervisor: [Prof. Feipeng Xiao](https://tjjt.tongji.edu.cn/info/3027/9634.htm)), Tongji University
