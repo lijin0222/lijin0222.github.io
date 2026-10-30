@@ -252,7 +252,7 @@ My research focuses on **sustainability-oriented life-cycle management of transp
 # 💻 Work Experience
 - *2025.06 - Present*, Postdoctoral Fellow (Supervisor: [Prof. Yuhong Wang](https://www.polyu.edu.hk/cee/people/academic-staff/prof-yuhong-wang/?sc_lang=en)), The Hong Kong Polytechnic University
 - *2024.04 - 2025.05*, Postdoctoral Research Associate (Supervisor: [Prof. John E. Haddock](https://engineering.purdue.edu/CCE/People/ptProfile?resource_id=2045)), Purdue University
-- *2024.04 - 2025.05*, Postdoctoral Research Associate (Supervisor: Dr. Seonghwan Cho), Indiana Department of Transportation (INDOT)
+- *2024.04 - 2025.05*, Research Engineer (Intern), Indiana Department of Transportation (INDOT)
 
 <span class='anchor' id='-education'></span>
 # 📖 Education
