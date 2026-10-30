@@ -195,6 +195,7 @@ My research focuses on **sustainability-oriented life-cycle management of transp
 
 {% assign conf_year = 2026 %}
 {% capture conf_content %}
+- *2026.10*, A Lightweight Bayesian Uncertainty Quantification Method for Long-Term Pavement Performance Prediction, [15th Youth Forum on Road and Airport Engineering Research](https://mp.weixin.qq.com/s/Vn2NekltgnGzVxWehOGnlA), Tianjin, China.
 - *2026.03*, Improved Temperature Correction Methodology for FWD Deflections in Full-Depth Asphalt Pavements, [Association of Asphalt Paving Technologists (AAPT) 2026 Annual Meeting](https://www.asphalttechnology.org/site_page.cfm?pk_association_webpage_menu=9168), Boston, Massachusetts, USA.
 {% endcapture %}
 {% if conf_year < cutoff_year %}
