@@ -66,6 +66,23 @@ My research focuses on **sustainability-oriented life-cycle management of transp
 {% assign current_year = site.time | date: "%Y" | plus: 0 %}
 {% assign cutoff_year = current_year | minus: 0 %}
 
+
+{% assign pub_year = 2027 %}
+{% capture pub_content %}
+- *China Journal of Highway and Transport*: &nbsp;[A Lightweight Bayesian Uncertainty Quantification Method for Long-Term Pavement Performance Prediction](https://link.cnki.net/urlid/61.1313.u.20261102.1338.002).  
+  **Jin Li**, Huailei Cheng\*, Wentao He, Xiaoqing Yu, Lijun Sun, Xudong Wang, Xingye Zhou.
+{% endcapture %}
+{% if pub_year < cutoff_year %}
+<details class="year-collapse">
+<summary>{{ pub_year }}</summary>
+{{ pub_content | markdownify }}
+</details>
+{% else %}
+<h2>{{ pub_year }}</h2>
+{{ pub_content | markdownify }}
+{% endif %}
+
+
 {% assign pub_year = 2026 %}
 {% capture pub_content %}
 - *Transportation Research Part D: Transport and Environment*: &nbsp;[Unraveling divergence in pavement LCA tools through attribution analysis](https://www.sciencedirect.com/science/article/pii/S1361920926003998).  
