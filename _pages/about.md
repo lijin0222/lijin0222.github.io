@@ -38,6 +38,7 @@ My research focuses on **sustainability-oriented life-cycle management of transp
 <span class='anchor' id='-news'></span>
 # 🔥 News
 
+- *2026.11*: &nbsp; New paper accepted by [Transportation Research Part D: Transport and Environment](https://www.sciencedirect.com/journal/transportation-research-part-d-transport-and-environment).
 - *2026.09*: &nbsp; New paper accepted by [China Journal of Highway and Transport](https://zgglxb.chd.edu.cn/EN/home).
 - *2026.09*: &nbsp; New paper accepted by [Transportation Research Part D: Transport and Environment](https://www.sciencedirect.com/science/article/pii/S1361920926003998).
 - *2026.08*: &nbsp; New paper accepted by [Nature Communications](https://www.nature.com/ncomms/).
@@ -300,5 +301,5 @@ My research focuses on **sustainability-oriented life-cycle management of transp
 
 
 <p style="font-size: 0.85em; color: #888; margin-top: 30px;">
-  Last updated: Oct 2026
+  Last updated: Nov 2026
 </p>
